@@ -31,7 +31,7 @@ sub combineChars {
 			#print "$c2\[$structure\]->";
 			
 			if($c2 ne "" && $structure ne "") {
-				return $c2.'['.$structure.']=>';
+				return $c2.'#'.$structure.'#=>';
 			} else {
 				return "";
 			}
