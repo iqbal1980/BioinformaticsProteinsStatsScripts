@@ -22,6 +22,7 @@ sub countOccurencesForStates {
 		
 	}
 	print "Occurences for $combination = $counter\n";
+	return $counter;
 } 
  
 sub countOccurences {
@@ -36,34 +37,41 @@ sub countOccurences {
 		my @matches = ($string =~ /$regex/g);
 		$length = scalar @matches;
 		$counter += $length;
-
-		
 	}
 	print "Occurences for $combination = $counter\n";
+	return $counter;
+
 }
 
 
 print "NOW PROCESSING AMINO ACIDS========================================================================\n";
 $all="[A-Z@#]{2}";
-countOccurences($all);
+$allCount = countOccurences($all);
+
 while (<FILE_IN>) {
 	my $combination =  $_;
 	$combination =~ s/\n|\r//;
 	print $combination."\n";
 	print $combination;
-	countOccurences($combination);	
+	$occurenceCount = countOccurences($combination);	
+	$occurencePercentage = ($occurenceCount/$allCount);
+	print "percentage for combination=$combinatoon ====>$occurencePercentage\n";
+	
 }
 
 
 print "NOW PROCESSING STATES========================================================================\n";
 $all2="[\!HBEGITS\~@#]{2}";
-countOccurencesForStates($all2);
+$allCount2 = countOccurencesForStates($all2);
 while (<FILE_IN_STATES>) {
 	my $combination =  $_;
 	$combination =~ s/\n|\r//;
 	print $combination."\n";
 	print $combination;
-	countOccurencesForStates($combination);	
+	$occurenceCount = countOccurencesForStates($combination);	
+	$occurencePercentage = ($occurenceCount/$allCount2);
+	print "percentage for combination=$combinatoon ====>$occurencePercentage\n";
+	
 }
 
 

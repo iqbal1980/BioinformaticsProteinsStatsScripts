@@ -94,7 +94,7 @@ while (my $w1 = <FILE_DIS> and my $w2 = <FILE_FASTA> and my $w3 = <FILE_SEC>) {
 	$w2 =~ s/^(.*)===========//;
 	$w3 =~ s/^(.*)===========//;
 	print "\n\n\n\n\n".(combineStrings($w1,$w2,$w3))."\n\n\n\n\n";	
-	
+	print FILE_VITERBI_DETAILS "\n\n\n\n\n".(combineStrings($w1,$w2,$w3))."\n\n\n\n\n";
 	#die;
 }
 
