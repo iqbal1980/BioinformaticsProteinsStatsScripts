@@ -58,7 +58,7 @@ while (my $w1 = <FILE_DIS> and my $w3 = <FILE_SEC>) {
 	$i++;
 	#$w1 =~ s/^(.*)===========//;
 	#$w3 =~ s/^(.*)===========//;
-	print "\n\n\n\n\n".(combineStrings($w1,$w3))."\n\n\n\n\n";	
-	
+	#print "\n\n\n\n\n".(combineStrings($w1,$w3))."\n\n\n\n\n";	
+	print FILE_VITERBI_DETAILS "\n\n\n\n\n".(combineStrings($w1,$w3))."\n\n\n\n\n";
 	#die;
 }

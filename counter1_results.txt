@@ -1,0 +1,2122 @@
+NOW PROCESSING AMINO ACIDS========================================================================
+Occurences for [A-Z@#]{2} = 83951838
+@@
+@@Occurences for @@ = 0
+percentage for combination= ====>0
+@X
+@XOccurences for @X = 3993
+percentage for combination= ====>4.7562984862821e-05
+@A
+@AOccurences for @A = 25389
+percentage for combination= ====>0.000302423396614616
+@C
+@COccurences for @C = 1578
+percentage for combination= ====>1.87964913883124e-05
+@D
+@DOccurences for @D = 8208
+percentage for combination= ====>9.77703430388266e-05
+@E
+@EOccurences for @E = 8656
+percentage for combination= ====>0.000103106736031199
+@F
+@FOccurences for @F = 2260
+percentage for combination= ====>2.69201967918796e-05
+@G
+@GOccurences for @G = 47247
+percentage for combination= ====>0.000562786963639795
+@H
+@HOccurences for @H = 4516
+percentage for combination= ====>5.3792747217756e-05
+@I
+@IOccurences for @I = 4509
+percentage for combination= ====>5.37093660772501e-05
+@K
+@KOccurences for @K = 6149
+percentage for combination= ====>7.32443761386141e-05
+@L
+@LOccurences for @L = 3754
+percentage for combination= ====>4.47161144941222e-05
+@M
+@MOccurences for @M = 148163
+percentage for combination= ====>0.00176485713153773
+@N
+@NOccurences for @N = 2856
+percentage for combination= ====>3.40195053263753e-05
+@P
+@POccurences for @P = 10349
+percentage for combination= ====>0.000123273060442107
+@Q
+@QOccurences for @Q = 6185
+percentage for combination= ====>7.36731934326441e-05
+@R
+@ROccurences for @R = 4087
+percentage for combination= ====>4.86826744638992e-05
+@S
+@SOccurences for @S = 23923
+percentage for combination= ====>0.000284961003474397
+@T
+@TOccurences for @T = 7992
+percentage for combination= ====>9.5197439274647e-05
+@V
+@VOccurences for @V = 5712
+percentage for combination= ====>6.80390106527507e-05
+@W
+@WOccurences for @W = 355
+percentage for combination= ====>4.22861498279525e-06
+@Y
+@YOccurences for @Y = 1652
+percentage for combination= ====>1.9677949159374e-05
+@B
+@BOccurences for @B = 0
+percentage for combination= ====>0
+@Z
+@ZOccurences for @Z = 2
+percentage for combination= ====>2.38231830016634e-08
+@#
+@#Occurences for @# = 0
+percentage for combination= ====>0
+X@
+X@Occurences for X@ = 0
+percentage for combination= ====>0
+XX
+XXOccurences for XX = 195778
+percentage for combination= ====>0.00233202756084983
+XA
+XAOccurences for XA = 700
+percentage for combination= ====>8.33811405058219e-06
+XC
+XCOccurences for XC = 120
+percentage for combination= ====>1.4293909800998e-06
+XD
+XDOccurences for XD = 293
+percentage for combination= ====>3.49009630974369e-06
+XE
+XEOccurences for XE = 300
+percentage for combination= ====>3.57347745024951e-06
+XF
+XFOccurences for XF = 195
+percentage for combination= ====>2.32276034266218e-06
+XG
+XGOccurences for XG = 519
+percentage for combination= ====>6.18211598893165e-06
+XH
+XHOccurences for XH = 84
+percentage for combination= ====>1.00057368606986e-06
+XI
+XIOccurences for XI = 205
+percentage for combination= ====>2.4418762576705e-06
+XK
+XKOccurences for XK = 168
+percentage for combination= ====>2.00114737213973e-06
+XL
+XLOccurences for XL = 329
+percentage for combination= ====>3.91891360377363e-06
+XM
+XMOccurences for XM = 287
+percentage for combination= ====>3.4186267607387e-06
+XN
+XNOccurences for XN = 189
+percentage for combination= ====>2.25129079365719e-06
+XP
+XPOccurences for XP = 157
+percentage for combination= ====>1.87011986563058e-06
+XQ
+XQOccurences for XQ = 84
+percentage for combination= ====>1.00057368606986e-06
+XR
+XROccurences for XR = 368
+percentage for combination= ====>4.38346567230607e-06
+XS
+XSOccurences for XS = 430
+percentage for combination= ====>5.12198434535763e-06
+XT
+XTOccurences for XT = 330
+percentage for combination= ====>3.93082519527446e-06
+XV
+XVOccurences for XV = 285
+percentage for combination= ====>3.39480357773704e-06
+XW
+XWOccurences for XW = 65
+percentage for combination= ====>7.74253447554061e-07
+XY
+XYOccurences for XY = 153
+percentage for combination= ====>1.82247349962725e-06
+XB
+XBOccurences for XB = 0
+percentage for combination= ====>0
+XZ
+XZOccurences for XZ = 0
+percentage for combination= ====>0
+X#
+X#Occurences for X# = 3279
+percentage for combination= ====>3.90581085312272e-05
+A@
+A@Occurences for A@ = 0
+percentage for combination= ====>0
+AX
+AXOccurences for AX = 540
+percentage for combination= ====>6.43225941044912e-06
+AA
+AAOccurences for AA = 679030
+percentage for combination= ====>0.00808832797680975
+AC
+ACOccurences for AC = 91982
+percentage for combination= ====>0.0010956520094295
+AD
+ADOccurences for AD = 376449
+percentage for combination= ====>0.00448410670889659
+AE
+AEOccurences for AE = 445556
+percentage for combination= ====>0.00530728106274457
+AF
+AFOccurences for AF = 244111
+percentage for combination= ====>0.00290775051285953
+AG
+AGOccurences for AG = 504197
+percentage for combination= ====>0.00600578869994484
+AH
+AHOccurences for AH = 154935
+percentage for combination= ====>0.00184552242918136
+AI
+AIOccurences for AI = 363360
+percentage for combination= ====>0.00432819588774221
+AK
+AKOccurences for AK = 382301
+percentage for combination= ====>0.00455381334235946
+AL
+ALOccurences for AL = 639122
+percentage for combination= ====>0.00761296018319456
+AM
+AMOccurences for AM = 161001
+percentage for combination= ====>0.00191777814322541
+AN
+ANOccurences for AN = 241836
+percentage for combination= ====>0.00288065164219514
+AP
+APOccurences for AP = 272938
+percentage for combination= ====>0.003251125961054
+AQ
+AQOccurences for AQ = 250540
+percentage for combination= ====>0.00298433013461837
+AR
+AROccurences for AR = 360362
+percentage for combination= ====>0.00429248493642271
+AS
+ASOccurences for AS = 399954
+percentage for combination= ====>0.00476408866712364
+AT
+ATOccurences for AT = 357868
+percentage for combination= ====>0.00426277742721964
+AV
+AVOccurences for AV = 491725
+percentage for combination= ====>0.00585722733074647
+AW
+AWOccurences for AW = 86405
+percentage for combination= ====>0.00102922106362936
+AY
+AYOccurences for AY = 194482
+percentage for combination= ====>0.00231659013826475
+AB
+ABOccurences for AB = 1
+percentage for combination= ====>1.19115915008317e-08
+AZ
+AZOccurences for AZ = 2
+percentage for combination= ====>2.38231830016634e-08
+A#
+A#Occurences for A# = 27070
+percentage for combination= ====>0.000322446781927514
+C@
+C@Occurences for C@ = 0
+percentage for combination= ====>0
+CX
+CXOccurences for CX = 229
+percentage for combination= ====>2.72775445369046e-06
+CA
+CAOccurences for CA = 86001
+percentage for combination= ====>0.00102440878066303
+CC
+CCOccurences for CC = 20906
+percentage for combination= ====>0.000249023731916388
+CD
+CDOccurences for CD = 67924
+percentage for combination= ====>0.000809082941102493
+CE
+CEOccurences for CE = 61568
+percentage for combination= ====>0.000733372865523206
+CF
+CFOccurences for CF = 40646
+percentage for combination= ====>0.000484158548142805
+CG
+CGOccurences for CG = 92732
+percentage for combination= ====>0.00110458570305513
+CH
+CHOccurences for CH = 33549
+percentage for combination= ====>0.000399621983261403
+CI
+CIOccurences for CI = 54783
+percentage for combination= ====>0.000652552717190063
+CK
+CKOccurences for CK = 60811
+percentage for combination= ====>0.000724355790757077
+CL
+CLOccurences for CL = 94205
+percentage for combination= ====>0.00112213147733585
+CM
+CMOccurences for CM = 20708
+percentage for combination= ====>0.000246665236799223
+CN
+CNOccurences for CN = 47839
+percentage for combination= ====>0.000569838625808288
+CP
+CPOccurences for CP = 60332
+percentage for combination= ====>0.000718650138428178
+CQ
+CQOccurences for CQ = 48393
+percentage for combination= ====>0.000576437647499749
+CR
+CROccurences for CR = 61666
+percentage for combination= ====>0.000734540201490288
+CS
+CSOccurences for CS = 72940
+percentage for combination= ====>0.000868831484070664
+CT
+CTOccurences for CT = 62122
+percentage for combination= ====>0.000739971887214667
+CV
+CVOccurences for CV = 71890
+percentage for combination= ====>0.000856324312994791
+CW
+CWOccurences for CW = 15661
+percentage for combination= ====>0.000186547434494525
+CY
+CYOccurences for CY = 39697
+percentage for combination= ====>0.000472854447808516
+CB
+CBOccurences for CB = 0
+percentage for combination= ====>0
+CZ
+CZOccurences for CZ = 0
+percentage for combination= ====>0
+C#
+C#Occurences for C# = 5476
+percentage for combination= ====>6.52278750585544e-05
+D@
+D@Occurences for D@ = 0
+percentage for combination= ====>0
+DX
+DXOccurences for DX = 186
+percentage for combination= ====>2.2155560191547e-06
+DA
+DAOccurences for DA = 362815
+percentage for combination= ====>0.00432170407037425
+DC
+DCOccurences for DC = 63048
+percentage for combination= ====>0.000751002020944437
+DD
+DDOccurences for DD = 245548
+percentage for combination= ====>0.00292486746984622
+DE
+DEOccurences for DE = 306631
+percentage for combination= ====>0.00365246321349153
+DF
+DFOccurences for DF = 215221
+percentage for combination= ====>0.0025636246344005
+DG
+DGOccurences for DG = 360208
+percentage for combination= ====>0.00429065055133159
+DH
+DHOccurences for DH = 96630
+percentage for combination= ====>0.00115101708672537
+DI
+DIOccurences for DI = 308823
+percentage for combination= ====>0.00367857342206135
+DK
+DKOccurences for DK = 272894
+percentage for combination= ====>0.00325060185102797
+DL
+DLOccurences for DL = 453714
+percentage for combination= ====>0.00540445582620836
+DM
+DMOccurences for DM = 103846
+percentage for combination= ====>0.00123697113099537
+DN
+DNOccurences for DN = 178928
+percentage for combination= ====>0.00213131724406082
+DP
+DPOccurences for DP = 236477
+percentage for combination= ====>0.00281681742334218
+DQ
+DQOccurences for DQ = 147853
+percentage for combination= ====>0.00176116453817247
+DR
+DROccurences for DR = 231765
+percentage for combination= ====>0.00276069000419026
+DS
+DSOccurences for DS = 263883
+percentage for combination= ====>0.00314326650001397
+DT
+DTOccurences for DT = 238608
+percentage for combination= ====>0.00284220102483045
+DV
+DVOccurences for DV = 337548
+percentage for combination= ====>0.00402073388792274
+DW
+DWOccurences for DW = 70183
+percentage for combination= ====>0.000835991226302871
+DY
+DYOccurences for DY = 182751
+percentage for combination= ====>0.00217685525836849
+DB
+DBOccurences for DB = 0
+percentage for combination= ====>0
+DZ
+DZOccurences for DZ = 1
+percentage for combination= ====>1.19115915008317e-08
+D#
+D#Occurences for D# = 14647
+percentage for combination= ====>0.000174469080712682
+E@
+E@Occurences for E@ = 0
+percentage for combination= ====>0
+EX
+EXOccurences for EX = 252
+percentage for combination= ====>3.00172105820959e-06
+EA
+EAOccurences for EA = 468269
+percentage for combination= ====>0.00557782904050296
+EC
+ECOccurences for EC = 61702
+percentage for combination= ====>0.000734969018784318
+ED
+EDOccurences for ED = 300813
+percentage for combination= ====>0.00358316157413969
+EE
+EEOccurences for EE = 438817
+percentage for combination= ====>0.00522700884762047
+EF
+EFOccurences for EF = 211004
+percentage for combination= ====>0.00251339345304149
+EG
+EGOccurences for EG = 362168
+percentage for combination= ====>0.00431399727067322
+EH
+EHOccurences for EH = 127069
+percentage for combination= ====>0.00151359402041918
+EI
+EIOccurences for EI = 335481
+percentage for combination= ====>0.00399611262829052
+EK
+EKOccurences for EK = 381334
+percentage for combination= ====>0.00454229483337816
+EL
+ELOccurences for EL = 517414
+percentage for combination= ====>0.00616322420481133
+EM
+EMOccurences for EM = 133479
+percentage for combination= ====>0.00158994732193951
+EN
+ENOccurences for EN = 247216
+percentage for combination= ====>0.00294473600446961
+EP
+EPOccurences for EP = 203357
+percentage for combination= ====>0.00242230551283463
+EQ
+EQOccurences for EQ = 221922
+percentage for combination= ====>0.00264344420904757
+ER
+EROccurences for ER = 304754
+percentage for combination= ====>0.00363010515624446
+ES
+ESOccurences for ES = 269250
+percentage for combination= ====>0.00320719601159894
+ET
+ETOccurences for ET = 273249
+percentage for combination= ====>0.00325483046601076
+EV
+EVOccurences for EV = 392548
+percentage for combination= ====>0.00467587142046848
+EW
+EWOccurences for EW = 77257
+percentage for combination= ====>0.000920253824579755
+EY
+EYOccurences for EY = 178176
+percentage for combination= ====>0.00212235972725219
+EB
+EBOccurences for EB = 0
+percentage for combination= ====>0
+EZ
+EZOccurences for EZ = 2
+percentage for combination= ====>2.38231830016634e-08
+E#
+E#Occurences for E# = 23822
+percentage for combination= ====>0.000283757932732813
+F@
+F@Occurences for F@ = 0
+percentage for combination= ====>0
+FX
+FXOccurences for FX = 177
+percentage for combination= ====>2.10835169564721e-06
+FA
+FAOccurences for FA = 230539
+percentage for combination= ====>0.00274608639301024
+FC
+FCOccurences for FC = 45898
+percentage for combination= ====>0.000546718226705173
+FD
+FDOccurences for FD = 211552
+percentage for combination= ====>0.00251992100518395
+FE
+FEOccurences for FE = 206228
+percentage for combination= ====>0.00245650369203352
+FF
+FFOccurences for FF = 122389
+percentage for combination= ====>0.00145784777219529
+FG
+FGOccurences for FG = 254352
+percentage for combination= ====>0.00302973712141955
+FH
+FHOccurences for FH = 78338
+percentage for combination= ====>0.000933130254992154
+FI
+FIOccurences for FI = 170772
+percentage for combination= ====>0.00203416630378003
+FK
+FKOccurences for FK = 173949
+percentage for combination= ====>0.00207200942997817
+FL
+FLOccurences for FL = 270240
+percentage for combination= ====>0.00321898848718476
+FM
+FMOccurences for FM = 60652
+percentage for combination= ====>0.000722461847708444
+FN
+FNOccurences for FN = 148415
+percentage for combination= ====>0.00176785885259594
+FP
+FPOccurences for FP = 157239
+percentage for combination= ====>0.00187296673599928
+FQ
+FQOccurences for FQ = 131396
+percentage for combination= ====>0.00156513547684328
+FR
+FROccurences for FR = 170082
+percentage for combination= ====>0.00202594730564446
+FS
+FSOccurences for FS = 232091
+percentage for combination= ====>0.00276457318301953
+FT
+FTOccurences for FT = 195463
+percentage for combination= ====>0.00232827540952707
+FV
+FVOccurences for FV = 204017
+percentage for combination= ====>0.00243016716322518
+FW
+FWOccurences for FW = 41165
+percentage for combination= ====>0.000490340664131737
+FY
+FYOccurences for FY = 120891
+percentage for combination= ====>0.00144000420812705
+FB
+FBOccurences for FB = 0
+percentage for combination= ====>0
+FZ
+FZOccurences for FZ = 0
+percentage for combination= ====>0
+F#
+F#Occurences for F# = 11645
+percentage for combination= ====>0.000138710483027185
+G@
+G@Occurences for G@ = 0
+percentage for combination= ====>0
+GX
+GXOccurences for GX = 515
+percentage for combination= ====>6.13446962292833e-06
+GA
+GAOccurences for GA = 465635
+percentage for combination= ====>0.00554645390848977
+GC
+GCOccurences for GC = 85738
+percentage for combination= ====>0.00102127603209831
+GD
+GDOccurences for GD = 329403
+percentage for combination= ====>0.00392371397514847
+GE
+GEOccurences for GE = 372546
+percentage for combination= ====>0.00443761576726885
+GF
+GFOccurences for GF = 255395
+percentage for combination= ====>0.00304216091135491
+GG
+GGOccurences for GG = 484596
+percentage for combination= ====>0.00577230959493704
+GH
+GHOccurences for GH = 147973
+percentage for combination= ====>0.00176259392915257
+GI
+GIOccurences for GI = 361977
+percentage for combination= ====>0.00431172215669656
+GK
+GKOccurences for GK = 399444
+percentage for combination= ====>0.00475801375545822
+GL
+GLOccurences for GL = 508935
+percentage for combination= ====>0.00606222582047578
+GM
+GMOccurences for GM = 142266
+percentage for combination= ====>0.00169461447645732
+GN
+GNOccurences for GN = 245548
+percentage for combination= ====>0.00292486746984622
+GP
+GPOccurences for GP = 243219
+percentage for combination= ====>0.00289712537324079
+GQ
+GQOccurences for GQ = 226554
+percentage for combination= ====>0.00269861870087943
+GR
+GROccurences for GR = 330212
+percentage for combination= ====>0.00393335045267264
+GS
+GSOccurences for GS = 462038
+percentage for combination= ====>0.00550360791386128
+GT
+GTOccurences for GT = 370446
+percentage for combination= ====>0.0044126014251171
+GV
+GVOccurences for GV = 459275
+percentage for combination= ====>0.00547069618654448
+GW
+GWOccurences for GW = 85573
+percentage for combination= ====>0.00101931061950067
+GY
+GYOccurences for GY = 231667
+percentage for combination= ====>0.00275952266822318
+GB
+GBOccurences for GB = 2
+percentage for combination= ====>2.38231830016634e-08
+GZ
+GZOccurences for GZ = 4
+percentage for combination= ====>4.76463660033268e-08
+G#
+G#Occurences for G# = 19809
+percentage for combination= ====>0.000235956716039975
+H@
+H@Occurences for H@ = 0
+percentage for combination= ====>0
+HX
+HXOccurences for HX = 102
+percentage for combination= ====>1.21498233308483e-06
+HA
+HAOccurences for HA = 141004
+percentage for combination= ====>0.00167958204798327
+HC
+HCOccurences for HC = 31394
+percentage for combination= ====>0.00037395250357711
+HD
+HDOccurences for HD = 88273
+percentage for combination= ====>0.00105147191655292
+HE
+HEOccurences for HE = 103511
+percentage for combination= ====>0.00123298074784259
+HF
+HFOccurences for HF = 90040
+percentage for combination= ====>0.00107251969873489
+HG
+HGOccurences for HG = 147293
+percentage for combination= ====>0.001754494046932
+HH
+HHOccurences for HH = 324121
+percentage for combination= ====>0.00386079694884107
+HI
+HIOccurences for HI = 113987
+percentage for combination= ====>0.0013577665804053
+HK
+HKOccurences for HK = 94362
+percentage for combination= ====>0.00112400159720148
+HL
+HLOccurences for HL = 178790
+percentage for combination= ====>0.0021296734444337
+HM
+HMOccurences for HM = 64773
+percentage for combination= ====>0.000771549516283372
+HN
+HNOccurences for HN = 73917
+percentage for combination= ====>0.000880469108966977
+HP
+HPOccurences for HP = 124968
+percentage for combination= ====>0.00148856776667594
+HQ
+HQOccurences for HQ = 75244
+percentage for combination= ====>0.000896275790888581
+HR
+HROccurences for HR = 101821
+percentage for combination= ====>0.00121285015820618
+HS
+HSOccurences for HS = 129087
+percentage for combination= ====>0.00153763161206786
+HT
+HTOccurences for HT = 101311
+percentage for combination= ====>0.00120677524654076
+HV
+HVOccurences for HV = 122224
+percentage for combination= ====>0.00145588235959765
+HW
+HWOccurences for HW = 31030
+percentage for combination= ====>0.000369616684270808
+HY
+HYOccurences for HY = 69315
+percentage for combination= ====>0.000825651964880149
+HB
+HBOccurences for HB = 0
+percentage for combination= ====>0
+HZ
+HZOccurences for HZ = 0
+percentage for combination= ====>0
+H#
+H#Occurences for H# = 29825
+percentage for combination= ====>0.000355263216512306
+I@
+I@Occurences for I@ = 0
+percentage for combination= ====>0
+IX
+IXOccurences for IX = 178
+percentage for combination= ====>2.12026328714804e-06
+IA
+IAOccurences for IA = 388009
+percentage for combination= ====>0.00462180470664621
+IC
+ICOccurences for IC = 69374
+percentage for combination= ====>0.000826354748778699
+ID
+IDOccurences for ID = 287011
+percentage for combination= ====>0.00341875778824521
+IE
+IEOccurences for IE = 315510
+percentage for combination= ====>0.00375822623442741
+IF
+IFOccurences for IF = 165488
+percentage for combination= ====>0.00197122545428964
+IG
+IGOccurences for IG = 333510
+percentage for combination= ====>0.00397263488144238
+IH
+IHOccurences for IH = 114277
+percentage for combination= ====>0.00136122094194054
+II
+IIOccurences for II = 259429
+percentage for combination= ====>0.00309021227146927
+IK
+IKOccurences for IK = 286493
+percentage for combination= ====>0.00341258758384778
+IL
+ILOccurences for IL = 382895
+percentage for combination= ====>0.00456088882771096
+IM
+IMOccurences for IM = 88336
+percentage for combination= ====>0.00105222234681747
+IN
+INOccurences for IN = 225850
+percentage for combination= ====>0.00269023294046284
+IP
+IPOccurences for IP = 242425
+percentage for combination= ====>0.00288766756958913
+IQ
+IQOccurences for IQ = 176299
+percentage for combination= ====>0.00210000167000513
+IR
+IROccurences for IR = 240460
+percentage for combination= ====>0.00286426129228999
+IS
+ISOccurences for IS = 298342
+percentage for combination= ====>0.00355372803154113
+IT
+ITOccurences for IT = 277821
+percentage for combination= ====>0.00330929026235256
+IV
+IVOccurences for IV = 324141
+percentage for combination= ====>0.00386103518067109
+IW
+IWOccurences for IW = 51069
+percentage for combination= ====>0.000608313066355974
+IY
+IYOccurences for IY = 156932
+percentage for combination= ====>0.00186930987740852
+IB
+IBOccurences for IB = 2
+percentage for combination= ====>2.38231830016634e-08
+IZ
+IZOccurences for IZ = 4
+percentage for combination= ====>4.76463660033268e-08
+I#
+I#Occurences for I# = 9782
+percentage for combination= ====>0.000116519188061136
+K@
+K@Occurences for K@ = 0
+percentage for combination= ====>0
+KX
+KXOccurences for KX = 369
+percentage for combination= ====>4.3953772638069e-06
+KA
+KAOccurences for KA = 410114
+percentage for combination= ====>0.00488511043677209
+KC
+KCOccurences for KC = 56373
+percentage for combination= ====>0.000671492147676386
+KD
+KDOccurences for KD = 291496
+percentage for combination= ====>0.00347218127612644
+KE
+KEOccurences for KE = 371985
+percentage for combination= ====>0.00443093336443688
+KF
+KFOccurences for KF = 169681
+percentage for combination= ====>0.00202117075745262
+KG
+KGOccurences for KG = 331027
+percentage for combination= ====>0.00394305839974582
+KH
+KHOccurences for KH = 107778
+percentage for combination= ====>0.00128380750877664
+KI
+KIOccurences for KI = 305012
+percentage for combination= ====>0.00363317834685168
+KK
+KKOccurences for KK = 335649
+percentage for combination= ====>0.00399811377566266
+KL
+KLOccurences for KL = 446012
+percentage for combination= ====>0.00531271274846895
+KM
+KMOccurences for KM = 97929
+percentage for combination= ====>0.00116649024408495
+KN
+KNOccurences for KN = 218040
+percentage for combination= ====>0.00259720341084134
+KP
+KPOccurences for KP = 221610
+percentage for combination= ====>0.00263972779249931
+KQ
+KQOccurences for KQ = 170325
+percentage for combination= ====>0.00202884182237916
+KR
+KROccurences for KR = 246818
+percentage for combination= ====>0.00293999519105228
+KS
+KSOccurences for KS = 260060
+percentage for combination= ====>0.00309772848570629
+KT
+KTOccurences for KT = 269434
+percentage for combination= ====>0.00320938774443509
+KV
+KVOccurences for KV = 362261
+percentage for combination= ====>0.00431510504868279
+KW
+KWOccurences for KW = 61535
+percentage for combination= ====>0.000732979783003679
+KY
+KYOccurences for KY = 175746
+percentage for combination= ====>0.00209341455990517
+KB
+KBOccurences for KB = 0
+percentage for combination= ====>0
+KZ
+KZOccurences for KZ = 2
+percentage for combination= ====>2.38231830016634e-08
+K#
+K#Occurences for K# = 33721
+percentage for combination= ====>0.000401670776999546
+L@
+L@Occurences for L@ = 0
+percentage for combination= ====>0
+LX
+LXOccurences for LX = 372
+percentage for combination= ====>4.43111203830939e-06
+LA
+LAOccurences for LA = 623735
+percentage for combination= ====>0.00742967652477126
+LC
+LCOccurences for LC = 96436
+percentage for combination= ====>0.00114870623797421
+LD
+LDOccurences for LD = 426723
+percentage for combination= ====>0.00508295006000941
+LE
+LEOccurences for LE = 537889
+percentage for combination= ====>0.00640711404079086
+LF
+LFOccurences for LF = 251227
+percentage for combination= ====>0.00299251339797945
+LG
+LGOccurences for LG = 521479
+percentage for combination= ====>0.00621164482426222
+LH
+LHOccurences for LH = 173824
+percentage for combination= ====>0.00207052048104057
+LI
+LIOccurences for LI = 369342
+percentage for combination= ====>0.00439945102810018
+LK
+LKOccurences for LK = 491137
+percentage for combination= ====>0.00585022331494398
+LL
+LLOccurences for LL = 651220
+percentage for combination= ====>0.00775706661717162
+LM
+LMOccurences for LM = 149283
+percentage for combination= ====>0.00177819811401866
+LN
+LNOccurences for LN = 325932
+percentage for combination= ====>0.00388236884104908
+LP
+LPOccurences for LP = 353989
+percentage for combination= ====>0.00421657236378791
+LQ
+LQOccurences for LQ = 304378
+percentage for combination= ====>0.00362562639784015
+LR
+LROccurences for LR = 432161
+percentage for combination= ====>0.00514772529459093
+LS
+LSOccurences for LS = 489061
+percentage for combination= ====>0.00582549485098825
+LT
+LTOccurences for LT = 438996
+percentage for combination= ====>0.00522914102249911
+LV
+LVOccurences for LV = 503606
+percentage for combination= ====>0.00599874894936785
+LW
+LWOccurences for LW = 79851
+percentage for combination= ====>0.000951152492932912
+LY
+LYOccurences for LY = 238036
+percentage for combination= ====>0.00283538759449198
+LB
+LBOccurences for LB = 4
+percentage for combination= ====>4.76463660033268e-08
+LZ
+LZOccurences for LZ = 8
+percentage for combination= ====>9.52927320066536e-08
+L#
+L#Occurences for L# = 27766
+percentage for combination= ====>0.000330737249612093
+M@
+M@Occurences for M@ = 0
+percentage for combination= ====>0
+MX
+MXOccurences for MX = 67
+percentage for combination= ====>7.98076630555724e-07
+MA
+MAOccurences for MA = 175514
+percentage for combination= ====>0.00209065107067698
+MC
+MCOccurences for MC = 22714
+percentage for combination= ====>0.000270559889349891
+MD
+MDOccurences for MD = 110143
+percentage for combination= ====>0.00131197842267611
+ME
+MEOccurences for ME = 130692
+percentage for combination= ====>0.0015567497164267
+MF
+MFOccurences for MF = 64887
+percentage for combination= ====>0.000772907437714467
+MG
+MGOccurences for MG = 156402
+percentage for combination= ====>0.00186299673391308
+MH
+MHOccurences for MH = 43702
+percentage for combination= ====>0.000520560371769347
+MI
+MIOccurences for MI = 97431
+percentage for combination= ====>0.00116055827151753
+MK
+MKOccurences for MK = 130017
+percentage for combination= ====>0.00154870939216364
+ML
+MLOccurences for ML = 165295
+percentage for combination= ====>0.00196892651712998
+MM
+MMOccurences for MM = 47261
+percentage for combination= ====>0.000562953725920807
+MN
+MNOccurences for MN = 86231
+percentage for combination= ====>0.00102714844670822
+MP
+MPOccurences for MP = 84130
+percentage for combination= ====>0.00100212219296497
+MQ
+MQOccurences for MQ = 70248
+percentage for combination= ====>0.000836765479750425
+MR
+MROccurences for MR = 103848
+percentage for combination= ====>0.00123699495417837
+MS
+MSOccurences for MS = 127316
+percentage for combination= ====>0.00151653618351989
+MT
+MTOccurences for MT = 121355
+percentage for combination= ====>0.00144553118658343
+MV
+MVOccurences for MV = 133007
+percentage for combination= ====>0.00158432505075112
+MW
+MWOccurences for MW = 21532
+percentage for combination= ====>0.000256480388195908
+MY
+MYOccurences for MY = 55269
+percentage for combination= ====>0.000658341750659467
+MB
+MBOccurences for MB = 2
+percentage for combination= ====>2.38231830016634e-08
+MZ
+MZOccurences for MZ = 0
+percentage for combination= ====>0
+M#
+M#Occurences for M# = 5435
+percentage for combination= ====>6.47394998070203e-05
+N@
+N@Occurences for N@ = 0
+percentage for combination= ====>0
+NX
+NXOccurences for NX = 127
+percentage for combination= ====>1.51277212060563e-06
+NA
+NAOccurences for NA = 265040
+percentage for combination= ====>0.00315704821138043
+NC
+NCOccurences for NC = 50630
+percentage for combination= ====>0.000603083877687109
+ND
+NDOccurences for ND = 173209
+percentage for combination= ====>0.00206319485226756
+NE
+NEOccurences for NE = 201090
+percentage for combination= ====>0.00239530193490225
+NF
+NFOccurences for NF = 143831
+percentage for combination= ====>0.00171325611715612
+NG
+NGOccurences for NG = 277283
+percentage for combination= ====>0.00330288182612512
+NH
+NHOccurences for NH = 74982
+percentage for combination= ====>0.000893154953915363
+NI
+NIOccurences for NI = 220354
+percentage for combination= ====>0.00262476683357427
+NK
+NKOccurences for NK = 194241
+percentage for combination= ====>0.00231371944471305
+NL
+NLOccurences for NL = 324495
+percentage for combination= ====>0.00386525188406238
+NM
+NMOccurences for NM = 71485
+percentage for combination= ====>0.000851500118436954
+NN
+NNOccurences for NN = 157663
+percentage for combination= ====>0.00187801725079563
+NP
+NPOccurences for NP = 206129
+percentage for combination= ====>0.00245532444447494
+NQ
+NQOccurences for NQ = 122717
+percentage for combination= ====>0.00146175477420756
+NR
+NROccurences for NR = 158682
+percentage for combination= ====>0.00189015516253498
+NS
+NSOccurences for NS = 213151
+percentage for combination= ====>0.00253896763999378
+NT
+NTOccurences for NT = 193306
+percentage for combination= ====>0.00230258210665977
+NV
+NVOccurences for NV = 244258
+percentage for combination= ====>0.00290950151681015
+NW
+NWOccurences for NW = 58463
+percentage for combination= ====>0.000696387373913124
+NY
+NYOccurences for NY = 131081
+percentage for combination= ====>0.00156138332552052
+NB
+NBOccurences for NB = 4
+percentage for combination= ====>4.76463660033268e-08
+NZ
+NZOccurences for NZ = 0
+percentage for combination= ====>0
+N#
+N#Occurences for N# = 13583
+percentage for combination= ====>0.000161795147355797
+P@
+P@Occurences for P@ = 0
+percentage for combination= ====>0
+PX
+PXOccurences for PX = 197
+percentage for combination= ====>2.34658352566385e-06
+PA
+PAOccurences for PA = 295434
+percentage for combination= ====>0.00351908912345671
+PC
+PCOccurences for PC = 42502
+percentage for combination= ====>0.000506266461968349
+PD
+PDOccurences for PD = 242360
+percentage for combination= ====>0.00288689331614157
+PE
+PEOccurences for PE = 320539
+percentage for combination= ====>0.00381812962808509
+PF
+PFOccurences for PF = 159687
+percentage for combination= ====>0.00190212631199331
+PG
+PGOccurences for PG = 310774
+percentage for combination= ====>0.00370181293707947
+PH
+PHOccurences for PH = 90913
+percentage for combination= ====>0.00108291851811511
+PI
+PIOccurences for PI = 196912
+percentage for combination= ====>0.00234553530561177
+PK
+PKOccurences for PK = 207507
+percentage for combination= ====>0.00247173861756308
+PL
+PLOccurences for PL = 328732
+percentage for combination= ====>0.00391572129725141
+PM
+PMOccurences for PM = 72610
+percentage for combination= ====>0.00086490065887539
+PN
+PNOccurences for PN = 160807
+percentage for combination= ====>0.00191546729447424
+PP
+PPOccurences for PP = 178048
+percentage for combination= ====>0.00212083504354008
+PQ
+PQOccurences for PQ = 146698
+percentage for combination= ====>0.00174740664998901
+PR
+PROccurences for PR = 192071
+percentage for combination= ====>0.00228787129115625
+PS
+PSOccurences for PS = 257706
+percentage for combination= ====>0.00306968859931333
+PT
+PTOccurences for PT = 208373
+percentage for combination= ====>0.0024820540558028
+PV
+PVOccurences for PV = 290416
+percentage for combination= ====>0.00345931675730554
+PW
+PWOccurences for PW = 53826
+percentage for combination= ====>0.000641153324123767
+PY
+PYOccurences for PY = 125204
+percentage for combination= ====>0.00149137890227013
+PB
+PBOccurences for PB = 1
+percentage for combination= ====>1.19115915008317e-08
+PZ
+PZOccurences for PZ = 0
+percentage for combination= ====>0
+P#
+P#Occurences for P# = 10825
+percentage for combination= ====>0.000128942977996503
+Q@
+Q@Occurences for Q@ = 0
+percentage for combination= ====>0
+QX
+QXOccurences for QX = 85
+percentage for combination= ====>1.01248527757069e-06
+QA
+QAOccurences for QA = 270130
+percentage for combination= ====>0.00321767821211967
+QC
+QCOccurences for QC = 38825
+percentage for combination= ====>0.000462467540019791
+QD
+QDOccurences for QD = 157282
+percentage for combination= ====>0.00187347893443381
+QE
+QEOccurences for QE = 203467
+percentage for combination= ====>0.00242361578789972
+QF
+QFOccurences for QF = 118163
+percentage for combination= ====>0.00140750938651278
+QG
+QGOccurences for QG = 224601
+percentage for combination= ====>0.0026753553626783
+QH
+QHOccurences for QH = 72207
+percentage for combination= ====>0.000860100287500555
+QI
+QIOccurences for QI = 180608
+percentage for combination= ====>0.00215132871778221
+QK
+QKOccurences for QK = 180911
+percentage for combination= ====>0.00215493793000696
+QL
+QLOccurences for QL = 307335
+percentage for combination= ====>0.00366084897390811
+QM
+QMOccurences for QM = 81886
+percentage for combination= ====>0.000975392581637105
+QN
+QNOccurences for QN = 129797
+percentage for combination= ====>0.00154608884203345
+QP
+QPOccurences for QP = 134040
+percentage for combination= ====>0.00159662972477148
+QQ
+QQOccurences for QQ = 144600
+percentage for combination= ====>0.00172241613102026
+QR
+QROccurences for QR = 166574
+percentage for combination= ====>0.00198416144265954
+QS
+QSOccurences for QS = 177989
+percentage for combination= ====>0.00212013225964153
+QT
+QTOccurences for QT = 156230
+percentage for combination= ====>0.00186094794017494
+QV
+QVOccurences for QV = 220653
+percentage for combination= ====>0.00262832839943302
+QW
+QWOccurences for QW = 46586
+percentage for combination= ====>0.000554913401657746
+QY
+QYOccurences for QY = 110950
+percentage for combination= ====>0.00132159107701728
+QB
+QBOccurences for QB = 0
+percentage for combination= ====>0
+QZ
+QZOccurences for QZ = 0
+percentage for combination= ====>0
+Q#
+Q#Occurences for Q# = 14152
+percentage for combination= ====>0.00016857284291977
+R@
+R@Occurences for R@ = 0
+percentage for combination= ====>0
+RX
+RXOccurences for RX = 281
+percentage for combination= ====>3.34715721173371e-06
+RA
+RAOccurences for RA = 341920
+percentage for combination= ====>0.00407281136596438
+RC
+RCOccurences for RC = 56565
+percentage for combination= ====>0.000673779173244545
+RD
+RDOccurences for RD = 243814
+percentage for combination= ====>0.00290421277018378
+RE
+REOccurences for RE = 301459
+percentage for combination= ====>0.00359085646224922
+RF
+RFOccurences for RF = 189933
+percentage for combination= ====>0.00226240430852747
+RG
+RGOccurences for RG = 309949
+percentage for combination= ====>0.00369198587409129
+RH
+RHOccurences for RH = 102531
+percentage for combination= ====>0.00122130738817178
+RI
+RIOccurences for RI = 263279
+percentage for combination= ====>0.00313607189874747
+RK
+RKOccurences for RK = 241292
+percentage for combination= ====>0.00287417173641868
+RL
+RLOccurences for RL = 410690
+percentage for combination= ====>0.00489197151347657
+RM
+RMOccurences for RM = 95187
+percentage for combination= ====>0.00113382866018967
+RN
+RNOccurences for RN = 177112
+percentage for combination= ====>0.0021096857938953
+RP
+RPOccurences for RP = 192153
+percentage for combination= ====>0.00228884804165931
+RQ
+RQOccurences for RQ = 171571
+percentage for combination= ====>0.0020436836653892
+RR
+RROccurences for RR = 249614
+percentage for combination= ====>0.0029733000008886
+RS
+RSOccurences for RS = 221784
+percentage for combination= ====>0.00264180040942046
+RT
+RTOccurences for RT = 212452
+percentage for combination= ====>0.0025306414375347
+RV
+RVOccurences for RV = 316537
+percentage for combination= ====>0.00377045943889876
+RW
+RWOccurences for RW = 64158
+percentage for combination= ====>0.00076422388751036
+RY
+RYOccurences for RY = 156491
+percentage for combination= ====>0.00186405686555665
+RB
+RBOccurences for RB = 2
+percentage for combination= ====>2.38231830016634e-08
+RZ
+RZOccurences for RZ = 10
+percentage for combination= ====>1.19115915008317e-07
+R#
+R#Occurences for R# = 21233
+percentage for combination= ====>0.00025291882233716
+S@
+S@Occurences for S@ = 0
+percentage for combination= ====>0
+SX
+SXOccurences for SX = 204
+percentage for combination= ====>2.42996466616967e-06
+SA
+SAOccurences for SA = 381415
+percentage for combination= ====>0.00454325967228972
+SC
+SCOccurences for SC = 74374
+percentage for combination= ====>0.000885912706282857
+SD
+SDOccurences for SD = 274758
+percentage for combination= ====>0.00327280505758552
+SE
+SEOccurences for SE = 288374
+percentage for combination= ====>0.00343499328746084
+SF
+SFOccurences for SF = 211859
+percentage for combination= ====>0.0025235778637747
+SG
+SGOccurences for SG = 463804
+percentage for combination= ====>0.00552464378445175
+SH
+SHOccurences for SH = 146359
+percentage for combination= ====>0.00174336862047023
+SI
+SIOccurences for SI = 278059
+percentage for combination= ====>0.00331212522112976
+SK
+SKOccurences for SK = 276898
+percentage for combination= ====>0.0032982958633973
+SL
+SLOccurences for SL = 470601
+percentage for combination= ====>0.0056056068718829
+SM
+SMOccurences for SM = 113986
+percentage for combination= ====>0.0013577546688138
+SN
+SNOccurences for SN = 212444
+percentage for combination= ====>0.00253054614480269
+SP
+SPOccurences for SP = 251161
+percentage for combination= ====>0.00299172723294039
+SQ
+SQOccurences for SQ = 188747
+percentage for combination= ====>0.00224827716100748
+SR
+SROccurences for SR = 252800
+percentage for combination= ====>0.00301125033141025
+SS
+SSOccurences for SS = 393435
+percentage for combination= ====>0.00468643700212972
+ST
+STOccurences for ST = 293756
+percentage for combination= ====>0.00349910147291832
+SV
+SVOccurences for SV = 347862
+percentage for combination= ====>0.00414359004266232
+SW
+SWOccurences for SW = 78340
+percentage for combination= ====>0.000933154078175156
+SY
+SYOccurences for SY = 177676
+percentage for combination= ====>0.00211640393150177
+SB
+SBOccurences for SB = 2
+percentage for combination= ====>2.38231830016634e-08
+SZ
+SZOccurences for SZ = 3
+percentage for combination= ====>3.57347745024951e-08
+S#
+S#Occurences for S# = 21753
+percentage for combination= ====>0.000259112849917592
+T@
+T@Occurences for T@ = 0
+percentage for combination= ====>0
+TX
+TXOccurences for TX = 132
+percentage for combination= ====>1.57233007810978e-06
+TA
+TAOccurences for TA = 360990
+percentage for combination= ====>0.00429996541588524
+TC
+TCOccurences for TC = 63235
+percentage for combination= ====>0.000753229488555093
+TD
+TDOccurences for TD = 245311
+percentage for combination= ====>0.00292204442266053
+TE
+TEOccurences for TE = 274903
+percentage for combination= ====>0.00327453223835314
+TF
+TFOccurences for TF = 195588
+percentage for combination= ====>0.00232976435846467
+TG
+TGOccurences for TG = 368620
+percentage for combination= ====>0.00439085085903658
+TH
+THOccurences for TH = 109665
+percentage for combination= ====>0.00130628468193871
+TI
+TIOccurences for TI = 268966
+percentage for combination= ====>0.0032038131196127
+TK
+TKOccurences for TK = 238306
+percentage for combination= ====>0.0028386037241972
+TL
+TLOccurences for TL = 465557
+percentage for combination= ====>0.00554552480435271
+TM
+TMOccurences for TM = 90700
+percentage for combination= ====>0.00108038134912544
+TN
+TNOccurences for TN = 179302
+percentage for combination= ====>0.00213577217928213
+TP
+TPOccurences for TP = 257998
+percentage for combination= ====>0.00307316678403158
+TQ
+TQOccurences for TQ = 164169
+percentage for combination= ====>0.00195551406510004
+TR
+TROccurences for TR = 210599
+percentage for combination= ====>0.00250856925848366
+TS
+TSOccurences for TS = 283855
+percentage for combination= ====>0.00338116480546858
+TT
+TTOccurences for TT = 261306
+percentage for combination= ====>0.00311257032871633
+TV
+TVOccurences for TV = 366507
+percentage for combination= ====>0.00436568166619533
+TW
+TWOccurences for TW = 67928
+percentage for combination= ====>0.000809130587468496
+TY
+TYOccurences for TY = 163033
+percentage for combination= ====>0.00194198249715509
+TB
+TBOccurences for TB = 5
+percentage for combination= ====>5.95579575041585e-08
+TZ
+TZOccurences for TZ = 2
+percentage for combination= ====>2.38231830016634e-08
+T#
+T#Occurences for T# = 9246
+percentage for combination= ====>0.00011013457501669
+V@
+V@Occurences for V@ = 0
+percentage for combination= ====>0
+VX
+VXOccurences for VX = 312
+percentage for combination= ====>3.71641654825949e-06
+VA
+VAOccurences for VA = 480357
+percentage for combination= ====>0.00572181635856501
+VC
+VCOccurences for VC = 85314
+percentage for combination= ====>0.00101622551730196
+VD
+VDOccurences for VD = 366807
+percentage for combination= ====>0.00436925514364557
+VE
+VEOccurences for VE = 406145
+percentage for combination= ====>0.00483783333010529
+VF
+VFOccurences for VF = 219022
+percentage for combination= ====>0.00260890059369516
+VG
+VGOccurences for VG = 387009
+percentage for combination= ====>0.00460989311514538
+VH
+VHOccurences for VH = 136508
+percentage for combination= ====>0.00162602753259553
+VI
+VIOccurences for VI = 328061
+percentage for combination= ====>0.00390772861935435
+VK
+VKOccurences for VK = 363934
+percentage for combination= ====>0.00433503314126369
+VL
+VLOccurences for VL = 516035
+percentage for combination= ====>0.00614679812013169
+VM
+VMOccurences for VM = 121209
+percentage for combination= ====>0.00144379209422431
+VN
+VNOccurences for VN = 244589
+percentage for combination= ====>0.00291344425359693
+VP
+VPOccurences for VP = 285137
+percentage for combination= ====>0.00339643546577265
+VQ
+VQOccurences for VQ = 203537
+percentage for combination= ====>0.00242444959930478
+VR
+VROccurences for VR = 309267
+percentage for combination= ====>0.00368386216868772
+VS
+VSOccurences for VS = 356197
+percentage for combination= ====>0.00424287315782175
+VT
+VTOccurences for VT = 373528
+percentage for combination= ====>0.00444931295012266
+VV
+VVOccurences for VV = 439003
+percentage for combination= ====>0.00522922440363962
+VW
+VWOccurences for VW = 70464
+percentage for combination= ====>0.000839338383514605
+VY
+VYOccurences for VY = 181368
+percentage for combination= ====>0.00216038152732284
+VB
+VBOccurences for VB = 3
+percentage for combination= ====>3.57347745024951e-08
+VZ
+VZOccurences for VZ = 3
+percentage for combination= ====>3.57347745024951e-08
+V#
+V#Occurences for V# = 13379
+percentage for combination= ====>0.000159365182689627
+W@
+W@Occurences for W@ = 0
+percentage for combination= ====>0
+WX
+WXOccurences for WX = 94
+percentage for combination= ====>1.11968960107818e-06
+WA
+WAOccurences for WA = 75125
+percentage for combination= ====>0.000894858311499982
+WC
+WCOccurences for WC = 14983
+percentage for combination= ====>0.000178471375456961
+WD
+WDOccurences for WD = 69010
+percentage for combination= ====>0.000822018929472396
+WE
+WEOccurences for WE = 71494
+percentage for combination= ====>0.000851607322760462
+WF
+WFOccurences for WF = 40273
+percentage for combination= ====>0.000479715524512995
+WG
+WGOccurences for WG = 78281
+percentage for combination= ====>0.000932451294276606
+WH
+WHOccurences for WH = 27688
+percentage for combination= ====>0.000329808145475028
+WI
+WIOccurences for WI = 63089
+percentage for combination= ====>0.000751490396195971
+WK
+WKOccurences for WK = 69296
+percentage for combination= ====>0.000825425644641634
+WL
+WLOccurences for WL = 92851
+percentage for combination= ====>0.00110600318244372
+WM
+WMOccurences for WM = 30809
+percentage for combination= ====>0.000366984222549124
+WN
+WNOccurences for WN = 59346
+percentage for combination= ====>0.000706905309208358
+WP
+WPOccurences for WP = 41118
+percentage for combination= ====>0.000489780819331198
+WQ
+WQOccurences for WQ = 48719
+percentage for combination= ====>0.00058032082632902
+WR
+WROccurences for WR = 59354
+percentage for combination= ====>0.000707000601940365
+WS
+WSOccurences for WS = 72937
+percentage for combination= ====>0.000868795749296162
+WT
+WTOccurences for WT = 65957
+percentage for combination= ====>0.000785652840620357
+WV
+WVOccurences for WV = 73414
+percentage for combination= ====>0.000874477578442059
+WW
+WWOccurences for WW = 17788
+percentage for combination= ====>0.000211883389616794
+WY
+WYOccurences for WY = 46056
+percentage for combination= ====>0.000548600258162305
+WB
+WBOccurences for WB = 0
+percentage for combination= ====>0
+WZ
+WZOccurences for WZ = 4
+percentage for combination= ====>4.76463660033268e-08
+W#
+W#Occurences for W# = 4076
+percentage for combination= ====>4.855164695739e-05
+Y@
+Y@Occurences for Y@ = 0
+percentage for combination= ====>0
+YX
+YXOccurences for YX = 128
+percentage for combination= ====>1.52468371210646e-06
+YA
+YAOccurences for YA = 198595
+percentage for combination= ====>0.00236558251410767
+YC
+YCOccurences for YC = 46399
+percentage for combination= ====>0.00055268593404709
+YD
+YDOccurences for YD = 175819
+percentage for combination= ====>0.00209428410608473
+YE
+YEOccurences for YE = 161995
+percentage for combination= ====>0.00192961826517723
+YF
+YFOccurences for YF = 126589
+percentage for combination= ====>0.00150787645649878
+YG
+YGOccurences for YG = 212704
+percentage for combination= ====>0.00253364315859291
+YH
+YHOccurences for YH = 68727
+percentage for combination= ====>0.00081864794907766
+YI
+YIOccurences for YI = 149193
+percentage for combination= ====>0.00177712607078358
+YK
+YKOccurences for YK = 155876
+percentage for combination= ====>0.00185673123678364
+YL
+YLOccurences for YL = 258223
+percentage for combination= ====>0.00307584689211926
+YM
+YMOccurences for YM = 56640
+percentage for combination= ====>0.000674672542607108
+YN
+YNOccurences for YN = 131944
+percentage for combination= ====>0.00157166302898574
+YP
+YPOccurences for YP = 135167
+percentage for combination= ====>0.00161005408839292
+YQ
+YQOccurences for YQ = 116893
+percentage for combination= ====>0.00139238166530672
+YR
+YROccurences for YR = 152647
+percentage for combination= ====>0.00181826870782746
+YS
+YSOccurences for YS = 193240
+percentage for combination= ====>0.00230179594162072
+YT
+YTOccurences for YT = 166015
+percentage for combination= ====>0.00197750286301058
+YV
+YVOccurences for YV = 180299
+percentage for combination= ====>0.00214764803600846
+YW
+YWOccurences for YW = 42525
+percentage for combination= ====>0.000506540428572868
+YY
+YYOccurences for YY = 118966
+percentage for combination= ====>0.00141707439448794
+YB
+YBOccurences for YB = 0
+percentage for combination= ====>0
+YZ
+YZOccurences for YZ = 0
+percentage for combination= ====>0
+Y#
+Y#Occurences for Y# = 7009
+percentage for combination= ====>8.34883448293294e-05
+B@
+B@Occurences for B@ = 0
+percentage for combination= ====>0
+BX
+BXOccurences for BX = 0
+percentage for combination= ====>0
+BA
+BAOccurences for BA = 2
+percentage for combination= ====>2.38231830016634e-08
+BC
+BCOccurences for BC = 0
+percentage for combination= ====>0
+BD
+BDOccurences for BD = 2
+percentage for combination= ====>2.38231830016634e-08
+BE
+BEOccurences for BE = 0
+percentage for combination= ====>0
+BF
+BFOccurences for BF = 2
+percentage for combination= ====>2.38231830016634e-08
+BG
+BGOccurences for BG = 0
+percentage for combination= ====>0
+BH
+BHOccurences for BH = 4
+percentage for combination= ====>4.76463660033268e-08
+BI
+BIOccurences for BI = 2
+percentage for combination= ====>2.38231830016634e-08
+BK
+BKOccurences for BK = 0
+percentage for combination= ====>0
+BL
+BLOccurences for BL = 2
+percentage for combination= ====>2.38231830016634e-08
+BM
+BMOccurences for BM = 2
+percentage for combination= ====>2.38231830016634e-08
+BN
+BNOccurences for BN = 2
+percentage for combination= ====>2.38231830016634e-08
+BP
+BPOccurences for BP = 3
+percentage for combination= ====>3.57347745024951e-08
+BQ
+BQOccurences for BQ = 0
+percentage for combination= ====>0
+BR
+BROccurences for BR = 4
+percentage for combination= ====>4.76463660033268e-08
+BS
+BSOccurences for BS = 0
+percentage for combination= ====>0
+BT
+BTOccurences for BT = 2
+percentage for combination= ====>2.38231830016634e-08
+BV
+BVOccurences for BV = 1
+percentage for combination= ====>1.19115915008317e-08
+BW
+BWOccurences for BW = 1
+percentage for combination= ====>1.19115915008317e-08
+BY
+BYOccurences for BY = 1
+percentage for combination= ====>1.19115915008317e-08
+BB
+BBOccurences for BB = 0
+percentage for combination= ====>0
+BZ
+BZOccurences for BZ = 2
+percentage for combination= ====>2.38231830016634e-08
+B#
+B#Occurences for B# = 0
+percentage for combination= ====>0
+Z@
+Z@Occurences for Z@ = 0
+percentage for combination= ====>0
+ZX
+ZXOccurences for ZX = 0
+percentage for combination= ====>0
+ZA
+ZAOccurences for ZA = 2
+percentage for combination= ====>2.38231830016634e-08
+ZC
+ZCOccurences for ZC = 0
+percentage for combination= ====>0
+ZD
+ZDOccurences for ZD = 0
+percentage for combination= ====>0
+ZE
+ZEOccurences for ZE = 0
+percentage for combination= ====>0
+ZF
+ZFOccurences for ZF = 0
+percentage for combination= ====>0
+ZG
+ZGOccurences for ZG = 2
+percentage for combination= ====>2.38231830016634e-08
+ZH
+ZHOccurences for ZH = 3
+percentage for combination= ====>3.57347745024951e-08
+ZI
+ZIOccurences for ZI = 6
+percentage for combination= ====>7.14695490049902e-08
+ZK
+ZKOccurences for ZK = 8
+percentage for combination= ====>9.52927320066536e-08
+ZL
+ZLOccurences for ZL = 4
+percentage for combination= ====>4.76463660033268e-08
+ZM
+ZMOccurences for ZM = 0
+percentage for combination= ====>0
+ZN
+ZNOccurences for ZN = 0
+percentage for combination= ====>0
+ZP
+ZPOccurences for ZP = 3
+percentage for combination= ====>3.57347745024951e-08
+ZQ
+ZQOccurences for ZQ = 0
+percentage for combination= ====>0
+ZR
+ZROccurences for ZR = 4
+percentage for combination= ====>4.76463660033268e-08
+ZS
+ZSOccurences for ZS = 1
+percentage for combination= ====>1.19115915008317e-08
+ZT
+ZTOccurences for ZT = 4
+percentage for combination= ====>4.76463660033268e-08
+ZV
+ZVOccurences for ZV = 6
+percentage for combination= ====>7.14695490049902e-08
+ZW
+ZWOccurences for ZW = 2
+percentage for combination= ====>2.38231830016634e-08
+ZY
+ZYOccurences for ZY = 0
+percentage for combination= ====>0
+ZB
+ZBOccurences for ZB = 4
+percentage for combination= ====>4.76463660033268e-08
+ZZ
+ZZOccurences for ZZ = 4
+percentage for combination= ====>4.76463660033268e-08
+Z#
+Z#Occurences for Z# = 0
+percentage for combination= ====>0
+#@
+#@Occurences for #@ = 0
+percentage for combination= ====>0
+#X
+#XOccurences for #X = 0
+percentage for combination= ====>0
+#A
+#AOccurences for #A = 0
+percentage for combination= ====>0
+#C
+#COccurences for #C = 0
+percentage for combination= ====>0
+#D
+#DOccurences for #D = 0
+percentage for combination= ====>0
+#E
+#EOccurences for #E = 0
+percentage for combination= ====>0
+#F
+#FOccurences for #F = 0
+percentage for combination= ====>0
+#G
+#GOccurences for #G = 0
+percentage for combination= ====>0
+#H
+#HOccurences for #H = 0
+percentage for combination= ====>0
+#I
+#IOccurences for #I = 0
+percentage for combination= ====>0
+#K
+#KOccurences for #K = 0
+percentage for combination= ====>0
+#L
+#LOccurences for #L = 0
+percentage for combination= ====>0
+#M
+#MOccurences for #M = 0
+percentage for combination= ====>0
+#N
+#NOccurences for #N = 0
+percentage for combination= ====>0
+#P
+#POccurences for #P = 0
+percentage for combination= ====>0
+#Q
+#QOccurences for #Q = 0
+percentage for combination= ====>0
+#R
+#ROccurences for #R = 0
+percentage for combination= ====>0
+#S
+#SOccurences for #S = 0
+percentage for combination= ====>0
+#T
+#TOccurences for #T = 0
+percentage for combination= ====>0
+#V
+#VOccurences for #V = 0
+percentage for combination= ====>0
+#W
+#WOccurences for #W = 0
+percentage for combination= ====>0
+#Y
+#YOccurences for #Y = 0
+percentage for combination= ====>0
+#B
+#BOccurences for #B = 0
+percentage for combination= ====>0
+#Z
+#ZOccurences for #Z = 0
+percentage for combination= ====>0
+##
+##Occurences for ## = 0
+percentage for combination= ====>0
+NOW PROCESSING STATES========================================================================
+Occurences for [!HBEGITS~@#]{2} = 83951838
+!!
+!!Occurences for !! = 4495460
+percentage for combination= ====>0.0535480831283289
+!H
+!HOccurences for !H = 109
+percentage for combination= ====>1.29836347359066e-06
+!B
+!BOccurences for !B = 81
+percentage for combination= ====>9.64838911567368e-07
+!E
+!EOccurences for !E = 99
+percentage for combination= ====>1.17924755858234e-06
+!G
+!GOccurences for !G = 20
+percentage for combination= ====>2.38231830016634e-07
+!I
+!IOccurences for !I = 0
+percentage for combination= ====>0
+!T
+!TOccurences for !T = 122
+percentage for combination= ====>1.45321416310147e-06
+!S
+!SOccurences for !S = 243
+percentage for combination= ====>2.8945167347021e-06
+!~
+!~Occurences for !~ = 328321
+percentage for combination= ====>0.00391082563314457
+H!
+H!Occurences for H! = 51
+percentage for combination= ====>6.07491166542417e-07
+HH
+HHOccurences for HH = 23553087
+percentage for combination= ====>0.28055475092755
+HB
+HBOccurences for HB = 16373
+percentage for combination= ====>0.000195028487643117
+HE
+HEOccurences for HE = 15188
+percentage for combination= ====>0.000180913251714632
+HG
+HGOccurences for HG = 75500
+percentage for combination= ====>0.000899325158312794
+HI
+HIOccurences for HI = 869
+percentage for combination= ====>1.03511730142228e-05
+HT
+HTOccurences for HT = 1394558
+percentage for combination= ====>0.0166114052202169
+HS
+HSOccurences for HS = 309648
+percentage for combination= ====>0.00368840048504954
+H~
+H~Occurences for H~ = 462124
+percentage for combination= ====>0.00550463231073035
+B!
+B!Occurences for B! = 84
+percentage for combination= ====>1.00057368606986e-06
+BH
+BHOccurences for BH = 45509
+percentage for combination= ====>0.00054208461761135
+BB
+BBOccurences for BB = 21325
+percentage for combination= ====>0.000254014688755236
+BE
+BEOccurences for BE = 35212
+percentage for combination= ====>0.000419430959927286
+BG
+BGOccurences for BG = 19045
+percentage for combination= ====>0.00022685626013334
+BI
+BIOccurences for BI = 85
+percentage for combination= ====>1.01248527757069e-06
+BT
+BTOccurences for BT = 132551
+percentage for combination= ====>0.00157889336502674
+BS
+BSOccurences for BS = 134687
+percentage for combination= ====>0.00160433652447252
+B~
+B~Occurences for B~ = 591888
+percentage for combination= ====>0.00705032807024428
+E!
+E!Occurences for E! = 114
+percentage for combination= ====>1.35792143109481e-06
+EH
+EHOccurences for EH = 84199
+percentage for combination= ====>0.00100294409277853
+EB
+EBOccurences for EB = 57033
+percentage for combination= ====>0.000679353798066935
+EE
+EEOccurences for EE = 13473847
+percentage for combination= ====>0.160494961408707
+EG
+EGOccurences for EG = 64775
+percentage for combination= ====>0.000771573339466374
+EI
+EIOccurences for EI = 158
+percentage for combination= ====>1.88203145713141e-06
+ET
+ETOccurences for ET = 533397
+percentage for combination= ====>0.00635360717176913
+ES
+ESOccurences for ES = 485083
+percentage for combination= ====>0.00577811053999795
+E~
+E~Occurences for E~ = 1889880
+percentage for combination= ====>0.0225114785455918
+G!
+G!Occurences for G! = 8
+percentage for combination= ====>9.52927320066536e-08
+GH
+GHOccurences for GH = 91373
+percentage for combination= ====>0.0010883978502055
+GB
+GBOccurences for GB = 25541
+percentage for combination= ====>0.000304233958522743
+GE
+GEOccurences for GE = 70814
+percentage for combination= ====>0.000843507440539896
+GG
+GGOccurences for GG = 1997211
+percentage for combination= ====>0.0237899615729676
+GI
+GIOccurences for GI = 30
+percentage for combination= ====>3.57347745024951e-07
+GT
+GTOccurences for GT = 194954
+percentage for combination= ====>0.00232221240945314
+GS
+GSOccurences for GS = 186227
+percentage for combination= ====>0.00221825995042539
+G~
+G~Occurences for G~ = 277833
+percentage for combination= ====>0.00330943320145057
+I!
+I!Occurences for I! = 0
+percentage for combination= ====>0
+IH
+IHOccurences for IH = 413
+percentage for combination= ====>4.91948728984349e-06
+IB
+IBOccurences for IB = 134
+percentage for combination= ====>1.59615326111145e-06
+IE
+IEOccurences for IE = 18
+percentage for combination= ====>2.14408647014971e-07
+IG
+IGOccurences for IG = 79
+percentage for combination= ====>9.41015728565705e-07
+II
+IIOccurences for II = 14395
+percentage for combination= ====>0.000171467359654472
+IT
+ITOccurences for IT = 1517
+percentage for combination= ====>1.80698843067617e-05
+IS
+ISOccurences for IS = 622
+percentage for combination= ====>7.40900991351732e-06
+I~
+I~Occurences for I~ = 555
+percentage for combination= ====>6.61093328296159e-06
+T!
+T!Occurences for T! = 139
+percentage for combination= ====>1.65571121861561e-06
+TH
+THOccurences for TH = 391264
+percentage for combination= ====>0.00466057693698142
+TB
+TBOccurences for TB = 142523
+percentage for combination= ====>0.00169767575547304
+TE
+TEOccurences for TE = 539902
+percentage for combination= ====>0.00643109207448204
+TG
+TGOccurences for TG = 102889
+percentage for combination= ====>0.00122557173792907
+TI
+TIOccurences for TI = 1107
+percentage for combination= ====>1.31861317914207e-05
+TT
+TTOccurences for TT = 4666518
+percentage for combination= ====>0.0555856561472782
+TS
+TSOccurences for TS = 1084035
+percentage for combination= ====>0.0129125820926041
+T~
+T~Occurences for T~ = 1988349
+percentage for combination= ====>0.0236844010490872
+S!
+S!Occurences for S! = 246
+percentage for combination= ====>2.9302515092046e-06
+SH
+SHOccurences for SH = 364873
+percentage for combination= ====>0.00434621812568297
+SB
+SBOccurences for SB = 173914
+percentage for combination= ====>0.00207159252427564
+SE
+SEOccurences for SE = 627185
+percentage for combination= ====>0.00747077151544913
+SG
+SGOccurences for SG = 123263
+percentage for combination= ====>0.00146825850316702
+SI
+SIOccurences for SI = 362
+percentage for combination= ====>4.31199612330108e-06
+ST
+STOccurences for ST = 467072
+percentage for combination= ====>0.00556357086547647
+SS
+SSOccurences for SS = 2646550
+percentage for combination= ====>0.0315246224865261
+S~
+S~Occurences for S~ = 2821692
+percentage for combination= ====>0.0336108424451648
+~!
+~!Occurences for ~! = 291972
+percentage for combination= ====>0.00347785119368083
+~H
+~HOccurences for ~H = 1296571
+percentage for combination= ====>0.0154442241038249
+~B
+~BOccurences for ~B = 543462
+percentage for combination= ====>0.006473497340225
+~E
+~EOccurences for ~E = 1826221
+percentage for combination= ====>0.0217531985422404
+~G
+~GOccurences for ~G = 461209
+percentage for combination= ====>0.00549373320450709
+~I
+~IOccurences for ~I = 727
+percentage for combination= ====>8.65972702110465e-06
+~T
+~TOccurences for ~T = 1526037
+percentage for combination= ====>0.0181775293591547
+~S
+~SOccurences for ~S = 2378062
+percentage for combination= ====>0.0283265031076508
+~~
+~~Occurences for ~~ = 7748176
+percentage for combination= ====>0.0922931073885482

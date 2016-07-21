@@ -1,0 +1,553 @@
+NOW PROCESSING AMINO ACIDS TO STATES TRANSITIONS========================================================================
+ Occurences for (?=((?<aminoAcid>.{1})#[^#]#=>[^#]#(?<structureType>.{1})#)) = 982605
+probability ====>1
+(?=((?<aminoAcid>@)#[^#]#=>[^#]#(?<structureType>!)#)) Occurences for (?=((?<aminoAcid>@)#[^#]#=>[^#]#(?<structureType>!)#)) = 572961
+probability ====>0.583104095745493
+(?=((?<aminoAcid>X)#[^#]#=>[^#]#(?<structureType>!)#)) Occurences for (?=((?<aminoAcid>X)#[^#]#=>[^#]#(?<structureType>!)#)) = 1731
+probability ====>0.00176164379379303
+(?=((?<aminoAcid>A)#[^#]#=>[^#]#(?<structureType>!)#)) Occurences for (?=((?<aminoAcid>A)#[^#]#=>[^#]#(?<structureType>!)#)) = 374937
+probability ====>0.381574488222633
+(?=((?<aminoAcid>C)#[^#]#=>[^#]#(?<structureType>!)#)) Occurences for (?=((?<aminoAcid>C)#[^#]#=>[^#]#(?<structureType>!)#)) = 64728
+probability ====>0.0658738760743127
+(?=((?<aminoAcid>D)#[^#]#=>[^#]#(?<structureType>!)#)) Occurences for (?=((?<aminoAcid>D)#[^#]#=>[^#]#(?<structureType>!)#)) = 304686
+probability ====>0.310079838795854
+(?=((?<aminoAcid>E)#[^#]#=>[^#]#(?<structureType>!)#)) Occurences for (?=((?<aminoAcid>E)#[^#]#=>[^#]#(?<structureType>!)#)) = 373977
+probability ====>0.380597493397652
+(?=((?<aminoAcid>F)#[^#]#=>[^#]#(?<structureType>!)#)) Occurences for (?=((?<aminoAcid>F)#[^#]#=>[^#]#(?<structureType>!)#)) = 174090
+probability ====>0.177171905292564
+(?=((?<aminoAcid>G)#[^#]#=>[^#]#(?<structureType>!)#)) Occurences for (?=((?<aminoAcid>G)#[^#]#=>[^#]#(?<structureType>!)#)) = 427932
+probability ====>0.435507655670386
+(?=((?<aminoAcid>H)#[^#]#=>[^#]#(?<structureType>!)#)) Occurences for (?=((?<aminoAcid>H)#[^#]#=>[^#]#(?<structureType>!)#)) = 282471
+probability ====>0.287471567924039
+(?=((?<aminoAcid>I)#[^#]#=>[^#]#(?<structureType>!)#)) Occurences for (?=((?<aminoAcid>I)#[^#]#=>[^#]#(?<structureType>!)#)) = 200139
+probability ====>0.203682049246645
+(?=((?<aminoAcid>K)#[^#]#=>[^#]#(?<structureType>!)#)) Occurences for (?=((?<aminoAcid>K)#[^#]#=>[^#]#(?<structureType>!)#)) = 330540
+probability ====>0.336391530676111
+(?=((?<aminoAcid>L)#[^#]#=>[^#]#(?<structureType>!)#)) Occurences for (?=((?<aminoAcid>L)#[^#]#=>[^#]#(?<structureType>!)#)) = 322518
+probability ====>0.328227517669867
+(?=((?<aminoAcid>M)#[^#]#=>[^#]#(?<structureType>!)#)) Occurences for (?=((?<aminoAcid>M)#[^#]#=>[^#]#(?<structureType>!)#)) = 349203
+probability ====>0.355384920695498
+(?=((?<aminoAcid>N)#[^#]#=>[^#]#(?<structureType>!)#)) Occurences for (?=((?<aminoAcid>N)#[^#]#=>[^#]#(?<structureType>!)#)) = 263664
+probability ====>0.268331628680904
+(?=((?<aminoAcid>P)#[^#]#=>[^#]#(?<structureType>!)#)) Occurences for (?=((?<aminoAcid>P)#[^#]#=>[^#]#(?<structureType>!)#)) = 321351
+probability ====>0.32703985833575
+(?=((?<aminoAcid>Q)#[^#]#=>[^#]#(?<structureType>!)#)) Occurences for (?=((?<aminoAcid>Q)#[^#]#=>[^#]#(?<structureType>!)#)) = 270603
+probability ====>0.275393469400217
+(?=((?<aminoAcid>R)#[^#]#=>[^#]#(?<structureType>!)#)) Occurences for (?=((?<aminoAcid>R)#[^#]#=>[^#]#(?<structureType>!)#)) = 285423
+probability ====>0.290475827010854
+(?=((?<aminoAcid>S)#[^#]#=>[^#]#(?<structureType>!)#)) Occurences for (?=((?<aminoAcid>S)#[^#]#=>[^#]#(?<structureType>!)#)) = 429798
+probability ====>0.437406689361442
+(?=((?<aminoAcid>T)#[^#]#=>[^#]#(?<structureType>!)#)) Occurences for (?=((?<aminoAcid>T)#[^#]#=>[^#]#(?<structureType>!)#)) = 310311
+probability ====>0.315804417848474
+(?=((?<aminoAcid>V)#[^#]#=>[^#]#(?<structureType>!)#)) Occurences for (?=((?<aminoAcid>V)#[^#]#=>[^#]#(?<structureType>!)#)) = 276423
+probability ====>0.281316500526661
+(?=((?<aminoAcid>W)#[^#]#=>[^#]#(?<structureType>!)#)) Occurences for (?=((?<aminoAcid>W)#[^#]#=>[^#]#(?<structureType>!)#)) = 53820
+probability ====>0.0547727723754713
+(?=((?<aminoAcid>Y)#[^#]#=>[^#]#(?<structureType>!)#)) Occurences for (?=((?<aminoAcid>Y)#[^#]#=>[^#]#(?<structureType>!)#)) = 136464
+probability ====>0.138879814370983
+(?=((?<aminoAcid>B)#[^#]#=>[^#]#(?<structureType>!)#)) Occurences for (?=((?<aminoAcid>B)#[^#]#=>[^#]#(?<structureType>!)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>Z)#[^#]#=>[^#]#(?<structureType>!)#)) Occurences for (?=((?<aminoAcid>Z)#[^#]#=>[^#]#(?<structureType>!)#)) = 6
+probability ====>6.10621765612835e-06
+(?=((?<aminoAcid>#)#[^#]#=>[^#]#(?<structureType>!)#)) Occurences for (?=((?<aminoAcid>#)#[^#]#=>[^#]#(?<structureType>!)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>@)#[^#]#=>[^#]#(?<structureType>H)#)) Occurences for (?=((?<aminoAcid>@)#[^#]#=>[^#]#(?<structureType>H)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>X)#[^#]#=>[^#]#(?<structureType>H)#)) Occurences for (?=((?<aminoAcid>X)#[^#]#=>[^#]#(?<structureType>H)#)) = 3036
+probability ====>0.00308974613400095
+(?=((?<aminoAcid>A)#[^#]#=>[^#]#(?<structureType>H)#)) Occurences for (?=((?<aminoAcid>A)#[^#]#=>[^#]#(?<structureType>H)#)) = 804375
+probability ====>0.818614804524707
+(?=((?<aminoAcid>C)#[^#]#=>[^#]#(?<structureType>H)#)) Occurences for (?=((?<aminoAcid>C)#[^#]#=>[^#]#(?<structureType>H)#)) = 418176
+probability ====>0.425578945761522
+(?=((?<aminoAcid>D)#[^#]#=>[^#]#(?<structureType>H)#)) Occurences for (?=((?<aminoAcid>D)#[^#]#=>[^#]#(?<structureType>H)#)) = 774972
+probability ====>0.78869128490085
+(?=((?<aminoAcid>E)#[^#]#=>[^#]#(?<structureType>H)#)) Occurences for (?=((?<aminoAcid>E)#[^#]#=>[^#]#(?<structureType>H)#)) = 804876
+probability ====>0.819124673698994
+(?=((?<aminoAcid>F)#[^#]#=>[^#]#(?<structureType>H)#)) Occurences for (?=((?<aminoAcid>F)#[^#]#=>[^#]#(?<structureType>H)#)) = 680175
+probability ====>0.69221609904285
+(?=((?<aminoAcid>G)#[^#]#=>[^#]#(?<structureType>H)#)) Occurences for (?=((?<aminoAcid>G)#[^#]#=>[^#]#(?<structureType>H)#)) = 692670
+probability ====>0.704932297311738
+(?=((?<aminoAcid>H)#[^#]#=>[^#]#(?<structureType>H)#)) Occurences for (?=((?<aminoAcid>H)#[^#]#=>[^#]#(?<structureType>H)#)) = 582234
+probability ====>0.592541255133039
+(?=((?<aminoAcid>I)#[^#]#=>[^#]#(?<structureType>H)#)) Occurences for (?=((?<aminoAcid>I)#[^#]#=>[^#]#(?<structureType>H)#)) = 754149
+probability ====>0.767499656525257
+(?=((?<aminoAcid>K)#[^#]#=>[^#]#(?<structureType>H)#)) Occurences for (?=((?<aminoAcid>K)#[^#]#=>[^#]#(?<structureType>H)#)) = 781329
+probability ====>0.795160822507518
+(?=((?<aminoAcid>L)#[^#]#=>[^#]#(?<structureType>H)#)) Occurences for (?=((?<aminoAcid>L)#[^#]#=>[^#]#(?<structureType>H)#)) = 821139
+probability ====>0.83567557665593
+(?=((?<aminoAcid>M)#[^#]#=>[^#]#(?<structureType>H)#)) Occurences for (?=((?<aminoAcid>M)#[^#]#=>[^#]#(?<structureType>H)#)) = 614478
+probability ====>0.625356068817073
+(?=((?<aminoAcid>N)#[^#]#=>[^#]#(?<structureType>H)#)) Occurences for (?=((?<aminoAcid>N)#[^#]#=>[^#]#(?<structureType>H)#)) = 698997
+probability ====>0.711371303830125
+(?=((?<aminoAcid>P)#[^#]#=>[^#]#(?<structureType>H)#)) Occurences for (?=((?<aminoAcid>P)#[^#]#=>[^#]#(?<structureType>H)#)) = 629163
+probability ====>0.640301036530447
+(?=((?<aminoAcid>Q)#[^#]#=>[^#]#(?<structureType>H)#)) Occurences for (?=((?<aminoAcid>Q)#[^#]#=>[^#]#(?<structureType>H)#)) = 739320
+probability ====>0.752408139588136
+(?=((?<aminoAcid>R)#[^#]#=>[^#]#(?<structureType>H)#)) Occurences for (?=((?<aminoAcid>R)#[^#]#=>[^#]#(?<structureType>H)#)) = 759048
+probability ====>0.772485383241486
+(?=((?<aminoAcid>S)#[^#]#=>[^#]#(?<structureType>H)#)) Occurences for (?=((?<aminoAcid>S)#[^#]#=>[^#]#(?<structureType>H)#)) = 766992
+probability ====>0.7805700154182
+(?=((?<aminoAcid>T)#[^#]#=>[^#]#(?<structureType>H)#)) Occurences for (?=((?<aminoAcid>T)#[^#]#=>[^#]#(?<structureType>H)#)) = 753705
+probability ====>0.767047796418703
+(?=((?<aminoAcid>V)#[^#]#=>[^#]#(?<structureType>H)#)) Occurences for (?=((?<aminoAcid>V)#[^#]#=>[^#]#(?<structureType>H)#)) = 762609
+probability ====>0.776109423420398
+(?=((?<aminoAcid>W)#[^#]#=>[^#]#(?<structureType>H)#)) Occurences for (?=((?<aminoAcid>W)#[^#]#=>[^#]#(?<structureType>H)#)) = 468459
+probability ====>0.476752102828705
+(?=((?<aminoAcid>Y)#[^#]#=>[^#]#(?<structureType>H)#)) Occurences for (?=((?<aminoAcid>Y)#[^#]#=>[^#]#(?<structureType>H)#)) = 662778
+probability ====>0.674511120948906
+(?=((?<aminoAcid>B)#[^#]#=>[^#]#(?<structureType>H)#)) Occurences for (?=((?<aminoAcid>B)#[^#]#=>[^#]#(?<structureType>H)#)) = 9
+probability ====>9.15932648419253e-06
+(?=((?<aminoAcid>Z)#[^#]#=>[^#]#(?<structureType>H)#)) Occurences for (?=((?<aminoAcid>Z)#[^#]#=>[^#]#(?<structureType>H)#)) = 6
+probability ====>6.10621765612835e-06
+(?=((?<aminoAcid>#)#[^#]#=>[^#]#(?<structureType>H)#)) Occurences for (?=((?<aminoAcid>#)#[^#]#=>[^#]#(?<structureType>H)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>@)#[^#]#=>[^#]#(?<structureType>B)#)) Occurences for (?=((?<aminoAcid>@)#[^#]#=>[^#]#(?<structureType>B)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>X)#[^#]#=>[^#]#(?<structureType>B)#)) Occurences for (?=((?<aminoAcid>X)#[^#]#=>[^#]#(?<structureType>B)#)) = 987
+probability ====>0.00100447280443311
+(?=((?<aminoAcid>A)#[^#]#=>[^#]#(?<structureType>B)#)) Occurences for (?=((?<aminoAcid>A)#[^#]#=>[^#]#(?<structureType>B)#)) = 144699
+probability ====>0.147260598104019
+(?=((?<aminoAcid>C)#[^#]#=>[^#]#(?<structureType>B)#)) Occurences for (?=((?<aminoAcid>C)#[^#]#=>[^#]#(?<structureType>B)#)) = 42045
+probability ====>0.0427893202253194
+(?=((?<aminoAcid>D)#[^#]#=>[^#]#(?<structureType>B)#)) Occurences for (?=((?<aminoAcid>D)#[^#]#=>[^#]#(?<structureType>B)#)) = 111645
+probability ====>0.113621445036408
+(?=((?<aminoAcid>E)#[^#]#=>[^#]#(?<structureType>B)#)) Occurences for (?=((?<aminoAcid>E)#[^#]#=>[^#]#(?<structureType>B)#)) = 113937
+probability ====>0.115954020181049
+(?=((?<aminoAcid>F)#[^#]#=>[^#]#(?<structureType>B)#)) Occurences for (?=((?<aminoAcid>F)#[^#]#=>[^#]#(?<structureType>B)#)) = 121965
+probability ====>0.124124139404949
+(?=((?<aminoAcid>G)#[^#]#=>[^#]#(?<structureType>B)#)) Occurences for (?=((?<aminoAcid>G)#[^#]#=>[^#]#(?<structureType>B)#)) = 236778
+probability ====>0.240969667363793
+(?=((?<aminoAcid>H)#[^#]#=>[^#]#(?<structureType>B)#)) Occurences for (?=((?<aminoAcid>H)#[^#]#=>[^#]#(?<structureType>B)#)) = 71493
+probability ====>0.0727586364815974
+(?=((?<aminoAcid>I)#[^#]#=>[^#]#(?<structureType>B)#)) Occurences for (?=((?<aminoAcid>I)#[^#]#=>[^#]#(?<structureType>B)#)) = 120168
+probability ====>0.122295327216939
+(?=((?<aminoAcid>K)#[^#]#=>[^#]#(?<structureType>B)#)) Occurences for (?=((?<aminoAcid>K)#[^#]#=>[^#]#(?<structureType>B)#)) = 149676
+probability ====>0.152325705649778
+(?=((?<aminoAcid>L)#[^#]#=>[^#]#(?<structureType>B)#)) Occurences for (?=((?<aminoAcid>L)#[^#]#=>[^#]#(?<structureType>B)#)) = 174258
+probability ====>0.177342879386936
+(?=((?<aminoAcid>M)#[^#]#=>[^#]#(?<structureType>B)#)) Occurences for (?=((?<aminoAcid>M)#[^#]#=>[^#]#(?<structureType>B)#)) = 56346
+probability ====>0.0573434900087014
+(?=((?<aminoAcid>N)#[^#]#=>[^#]#(?<structureType>B)#)) Occurences for (?=((?<aminoAcid>N)#[^#]#=>[^#]#(?<structureType>B)#)) = 133284
+probability ====>0.135643519013235
+(?=((?<aminoAcid>P)#[^#]#=>[^#]#(?<structureType>B)#)) Occurences for (?=((?<aminoAcid>P)#[^#]#=>[^#]#(?<structureType>B)#)) = 175698
+probability ====>0.178808371624407
+(?=((?<aminoAcid>Q)#[^#]#=>[^#]#(?<structureType>B)#)) Occurences for (?=((?<aminoAcid>Q)#[^#]#=>[^#]#(?<structureType>B)#)) = 92412
+probability ====>0.0940479643396889
+(?=((?<aminoAcid>R)#[^#]#=>[^#]#(?<structureType>B)#)) Occurences for (?=((?<aminoAcid>R)#[^#]#=>[^#]#(?<structureType>B)#)) = 131880
+probability ====>0.134214664081701
+(?=((?<aminoAcid>S)#[^#]#=>[^#]#(?<structureType>B)#)) Occurences for (?=((?<aminoAcid>S)#[^#]#=>[^#]#(?<structureType>B)#)) = 134250
+probability ====>0.136626620055872
+(?=((?<aminoAcid>T)#[^#]#=>[^#]#(?<structureType>B)#)) Occurences for (?=((?<aminoAcid>T)#[^#]#=>[^#]#(?<structureType>B)#)) = 144393
+probability ====>0.146949181003557
+(?=((?<aminoAcid>V)#[^#]#=>[^#]#(?<structureType>B)#)) Occurences for (?=((?<aminoAcid>V)#[^#]#=>[^#]#(?<structureType>B)#)) = 147690
+probability ====>0.150304547605599
+(?=((?<aminoAcid>W)#[^#]#=>[^#]#(?<structureType>B)#)) Occurences for (?=((?<aminoAcid>W)#[^#]#=>[^#]#(?<structureType>B)#)) = 40251
+probability ====>0.0409635611461371
+(?=((?<aminoAcid>Y)#[^#]#=>[^#]#(?<structureType>B)#)) Occurences for (?=((?<aminoAcid>Y)#[^#]#=>[^#]#(?<structureType>B)#)) = 109194
+probability ====>0.11112705512388
+(?=((?<aminoAcid>B)#[^#]#=>[^#]#(?<structureType>B)#)) Occurences for (?=((?<aminoAcid>B)#[^#]#=>[^#]#(?<structureType>B)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>Z)#[^#]#=>[^#]#(?<structureType>B)#)) Occurences for (?=((?<aminoAcid>Z)#[^#]#=>[^#]#(?<structureType>B)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>#)#[^#]#=>[^#]#(?<structureType>B)#)) Occurences for (?=((?<aminoAcid>#)#[^#]#=>[^#]#(?<structureType>B)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>@)#[^#]#=>[^#]#(?<structureType>E)#)) Occurences for (?=((?<aminoAcid>@)#[^#]#=>[^#]#(?<structureType>E)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>X)#[^#]#=>[^#]#(?<structureType>E)#)) Occurences for (?=((?<aminoAcid>X)#[^#]#=>[^#]#(?<structureType>E)#)) = 1578
+probability ====>0.00160593524356176
+(?=((?<aminoAcid>A)#[^#]#=>[^#]#(?<structureType>E)#)) Occurences for (?=((?<aminoAcid>A)#[^#]#=>[^#]#(?<structureType>E)#)) = 708432
+probability ====>0.720973331094387
+(?=((?<aminoAcid>C)#[^#]#=>[^#]#(?<structureType>E)#)) Occurences for (?=((?<aminoAcid>C)#[^#]#=>[^#]#(?<structureType>E)#)) = 421986
+probability ====>0.429456393973163
+(?=((?<aminoAcid>D)#[^#]#=>[^#]#(?<structureType>E)#)) Occurences for (?=((?<aminoAcid>D)#[^#]#=>[^#]#(?<structureType>E)#)) = 626424
+probability ====>0.637513548170424
+(?=((?<aminoAcid>E)#[^#]#=>[^#]#(?<structureType>E)#)) Occurences for (?=((?<aminoAcid>E)#[^#]#=>[^#]#(?<structureType>E)#)) = 674262
+probability ====>0.686198421542736
+(?=((?<aminoAcid>F)#[^#]#=>[^#]#(?<structureType>E)#)) Occurences for (?=((?<aminoAcid>F)#[^#]#=>[^#]#(?<structureType>E)#)) = 694521
+probability ====>0.706816065458653
+(?=((?<aminoAcid>G)#[^#]#=>[^#]#(?<structureType>E)#)) Occurences for (?=((?<aminoAcid>G)#[^#]#=>[^#]#(?<structureType>E)#)) = 727008
+probability ====>0.73987818095776
+(?=((?<aminoAcid>H)#[^#]#=>[^#]#(?<structureType>E)#)) Occurences for (?=((?<aminoAcid>H)#[^#]#=>[^#]#(?<structureType>E)#)) = 511092
+probability ====>0.520139832384325
+(?=((?<aminoAcid>I)#[^#]#=>[^#]#(?<structureType>E)#)) Occurences for (?=((?<aminoAcid>I)#[^#]#=>[^#]#(?<structureType>E)#)) = 764295
+probability ====>0.77782527058177
+(?=((?<aminoAcid>K)#[^#]#=>[^#]#(?<structureType>E)#)) Occurences for (?=((?<aminoAcid>K)#[^#]#=>[^#]#(?<structureType>E)#)) = 701511
+probability ====>0.713929809028043
+(?=((?<aminoAcid>L)#[^#]#=>[^#]#(?<structureType>E)#)) Occurences for (?=((?<aminoAcid>L)#[^#]#=>[^#]#(?<structureType>E)#)) = 761322
+probability ====>0.774799639733158
+(?=((?<aminoAcid>M)#[^#]#=>[^#]#(?<structureType>E)#)) Occurences for (?=((?<aminoAcid>M)#[^#]#=>[^#]#(?<structureType>E)#)) = 530391
+probability ====>0.539780481475262
+(?=((?<aminoAcid>N)#[^#]#=>[^#]#(?<structureType>E)#)) Occurences for (?=((?<aminoAcid>N)#[^#]#=>[^#]#(?<structureType>E)#)) = 564102
+probability ====>0.574088265376219
+(?=((?<aminoAcid>P)#[^#]#=>[^#]#(?<structureType>E)#)) Occurences for (?=((?<aminoAcid>P)#[^#]#=>[^#]#(?<structureType>E)#)) = 573420
+probability ====>0.583571221396187
+(?=((?<aminoAcid>Q)#[^#]#=>[^#]#(?<structureType>E)#)) Occurences for (?=((?<aminoAcid>Q)#[^#]#=>[^#]#(?<structureType>E)#)) = 570963
+probability ====>0.581070725266002
+(?=((?<aminoAcid>R)#[^#]#=>[^#]#(?<structureType>E)#)) Occurences for (?=((?<aminoAcid>R)#[^#]#=>[^#]#(?<structureType>E)#)) = 684513
+probability ====>0.696630894408231
+(?=((?<aminoAcid>S)#[^#]#=>[^#]#(?<structureType>E)#)) Occurences for (?=((?<aminoAcid>S)#[^#]#=>[^#]#(?<structureType>E)#)) = 643515
+probability ====>0.654907109163906
+(?=((?<aminoAcid>T)#[^#]#=>[^#]#(?<structureType>E)#)) Occurences for (?=((?<aminoAcid>T)#[^#]#=>[^#]#(?<structureType>E)#)) = 714615
+probability ====>0.727265788389027
+(?=((?<aminoAcid>V)#[^#]#=>[^#]#(?<structureType>E)#)) Occurences for (?=((?<aminoAcid>V)#[^#]#=>[^#]#(?<structureType>E)#)) = 784488
+probability ====>0.79837574610347
+(?=((?<aminoAcid>W)#[^#]#=>[^#]#(?<structureType>E)#)) Occurences for (?=((?<aminoAcid>W)#[^#]#=>[^#]#(?<structureType>E)#)) = 413874
+probability ====>0.421200787702078
+(?=((?<aminoAcid>Y)#[^#]#=>[^#]#(?<structureType>E)#)) Occurences for (?=((?<aminoAcid>Y)#[^#]#=>[^#]#(?<structureType>E)#)) = 665886
+probability ====>0.677674141694781
+(?=((?<aminoAcid>B)#[^#]#=>[^#]#(?<structureType>E)#)) Occurences for (?=((?<aminoAcid>B)#[^#]#=>[^#]#(?<structureType>E)#)) = 9
+probability ====>9.15932648419253e-06
+(?=((?<aminoAcid>Z)#[^#]#=>[^#]#(?<structureType>E)#)) Occurences for (?=((?<aminoAcid>Z)#[^#]#=>[^#]#(?<structureType>E)#)) = 6
+probability ====>6.10621765612835e-06
+(?=((?<aminoAcid>#)#[^#]#=>[^#]#(?<structureType>E)#)) Occurences for (?=((?<aminoAcid>#)#[^#]#=>[^#]#(?<structureType>E)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>@)#[^#]#=>[^#]#(?<structureType>G)#)) Occurences for (?=((?<aminoAcid>@)#[^#]#=>[^#]#(?<structureType>G)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>X)#[^#]#=>[^#]#(?<structureType>G)#)) Occurences for (?=((?<aminoAcid>X)#[^#]#=>[^#]#(?<structureType>G)#)) = 930
+probability ====>0.000946463736699895
+(?=((?<aminoAcid>A)#[^#]#=>[^#]#(?<structureType>G)#)) Occurences for (?=((?<aminoAcid>A)#[^#]#=>[^#]#(?<structureType>G)#)) = 405591
+probability ====>0.412771154227792
+(?=((?<aminoAcid>C)#[^#]#=>[^#]#(?<structureType>G)#)) Occurences for (?=((?<aminoAcid>C)#[^#]#=>[^#]#(?<structureType>G)#)) = 83772
+probability ====>0.0852550109148641
+(?=((?<aminoAcid>D)#[^#]#=>[^#]#(?<structureType>G)#)) Occurences for (?=((?<aminoAcid>D)#[^#]#=>[^#]#(?<structureType>G)#)) = 415341
+probability ====>0.422693757919001
+(?=((?<aminoAcid>E)#[^#]#=>[^#]#(?<structureType>G)#)) Occurences for (?=((?<aminoAcid>E)#[^#]#=>[^#]#(?<structureType>G)#)) = 409230
+probability ====>0.416474575236234
+(?=((?<aminoAcid>F)#[^#]#=>[^#]#(?<structureType>G)#)) Occurences for (?=((?<aminoAcid>F)#[^#]#=>[^#]#(?<structureType>G)#)) = 216768
+probability ====>0.220605431480605
+(?=((?<aminoAcid>G)#[^#]#=>[^#]#(?<structureType>G)#)) Occurences for (?=((?<aminoAcid>G)#[^#]#=>[^#]#(?<structureType>G)#)) = 335886
+probability ====>0.341832170607721
+(?=((?<aminoAcid>H)#[^#]#=>[^#]#(?<structureType>G)#)) Occurences for (?=((?<aminoAcid>H)#[^#]#=>[^#]#(?<structureType>G)#)) = 202725
+probability ====>0.206313829056437
+(?=((?<aminoAcid>I)#[^#]#=>[^#]#(?<structureType>G)#)) Occurences for (?=((?<aminoAcid>I)#[^#]#=>[^#]#(?<structureType>G)#)) = 208998
+probability ====>0.212697879615919
+(?=((?<aminoAcid>K)#[^#]#=>[^#]#(?<structureType>G)#)) Occurences for (?=((?<aminoAcid>K)#[^#]#=>[^#]#(?<structureType>G)#)) = 318435
+probability ====>0.324072236554872
+(?=((?<aminoAcid>L)#[^#]#=>[^#]#(?<structureType>G)#)) Occurences for (?=((?<aminoAcid>L)#[^#]#=>[^#]#(?<structureType>G)#)) = 370446
+probability ====>0.377003984307021
+(?=((?<aminoAcid>M)#[^#]#=>[^#]#(?<structureType>G)#)) Occurences for (?=((?<aminoAcid>M)#[^#]#=>[^#]#(?<structureType>G)#)) = 118953
+probability ====>0.121058818141573
+(?=((?<aminoAcid>N)#[^#]#=>[^#]#(?<structureType>G)#)) Occurences for (?=((?<aminoAcid>N)#[^#]#=>[^#]#(?<structureType>G)#)) = 292932
+probability ====>0.298117758407498
+(?=((?<aminoAcid>P)#[^#]#=>[^#]#(?<structureType>G)#)) Occurences for (?=((?<aminoAcid>P)#[^#]#=>[^#]#(?<structureType>G)#)) = 445602
+probability ====>0.453490466667684
+(?=((?<aminoAcid>Q)#[^#]#=>[^#]#(?<structureType>G)#)) Occurences for (?=((?<aminoAcid>Q)#[^#]#=>[^#]#(?<structureType>G)#)) = 211278
+probability ====>0.215018242325248
+(?=((?<aminoAcid>R)#[^#]#=>[^#]#(?<structureType>G)#)) Occurences for (?=((?<aminoAcid>R)#[^#]#=>[^#]#(?<structureType>G)#)) = 297783
+probability ====>0.303054635382478
+(?=((?<aminoAcid>S)#[^#]#=>[^#]#(?<structureType>G)#)) Occurences for (?=((?<aminoAcid>S)#[^#]#=>[^#]#(?<structureType>G)#)) = 400233
+probability ====>0.40731830186087
+(?=((?<aminoAcid>T)#[^#]#=>[^#]#(?<structureType>G)#)) Occurences for (?=((?<aminoAcid>T)#[^#]#=>[^#]#(?<structureType>G)#)) = 264816
+probability ====>0.269504022470881
+(?=((?<aminoAcid>V)#[^#]#=>[^#]#(?<structureType>G)#)) Occurences for (?=((?<aminoAcid>V)#[^#]#=>[^#]#(?<structureType>G)#)) = 236115
+probability ====>0.240294930312791
+(?=((?<aminoAcid>W)#[^#]#=>[^#]#(?<structureType>G)#)) Occurences for (?=((?<aminoAcid>W)#[^#]#=>[^#]#(?<structureType>G)#)) = 137184
+probability ====>0.139612560489719
+(?=((?<aminoAcid>Y)#[^#]#=>[^#]#(?<structureType>G)#)) Occurences for (?=((?<aminoAcid>Y)#[^#]#=>[^#]#(?<structureType>G)#)) = 188652
+probability ====>0.191991695543988
+(?=((?<aminoAcid>B)#[^#]#=>[^#]#(?<structureType>G)#)) Occurences for (?=((?<aminoAcid>B)#[^#]#=>[^#]#(?<structureType>G)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>Z)#[^#]#=>[^#]#(?<structureType>G)#)) Occurences for (?=((?<aminoAcid>Z)#[^#]#=>[^#]#(?<structureType>G)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>#)#[^#]#=>[^#]#(?<structureType>G)#)) Occurences for (?=((?<aminoAcid>#)#[^#]#=>[^#]#(?<structureType>G)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>@)#[^#]#=>[^#]#(?<structureType>I)#)) Occurences for (?=((?<aminoAcid>@)#[^#]#=>[^#]#(?<structureType>I)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>X)#[^#]#=>[^#]#(?<structureType>I)#)) Occurences for (?=((?<aminoAcid>X)#[^#]#=>[^#]#(?<structureType>I)#)) = 30
+probability ====>3.05310882806418e-05
+(?=((?<aminoAcid>A)#[^#]#=>[^#]#(?<structureType>I)#)) Occurences for (?=((?<aminoAcid>A)#[^#]#=>[^#]#(?<structureType>I)#)) = 2070
+probability ====>0.00210664509136428
+(?=((?<aminoAcid>C)#[^#]#=>[^#]#(?<structureType>I)#)) Occurences for (?=((?<aminoAcid>C)#[^#]#=>[^#]#(?<structureType>I)#)) = 765
+probability ====>0.000778542751156365
+(?=((?<aminoAcid>D)#[^#]#=>[^#]#(?<structureType>I)#)) Occurences for (?=((?<aminoAcid>D)#[^#]#=>[^#]#(?<structureType>I)#)) = 3126
+probability ====>0.00318133939884287
+(?=((?<aminoAcid>E)#[^#]#=>[^#]#(?<structureType>I)#)) Occurences for (?=((?<aminoAcid>E)#[^#]#=>[^#]#(?<structureType>I)#)) = 2286
+probability ====>0.0023264689269849
+(?=((?<aminoAcid>F)#[^#]#=>[^#]#(?<structureType>I)#)) Occurences for (?=((?<aminoAcid>F)#[^#]#=>[^#]#(?<structureType>I)#)) = 1869
+probability ====>0.00190208679988398
+(?=((?<aminoAcid>G)#[^#]#=>[^#]#(?<structureType>I)#)) Occurences for (?=((?<aminoAcid>G)#[^#]#=>[^#]#(?<structureType>I)#)) = 4737
+probability ====>0.00482085883951333
+(?=((?<aminoAcid>H)#[^#]#=>[^#]#(?<structureType>I)#)) Occurences for (?=((?<aminoAcid>H)#[^#]#=>[^#]#(?<structureType>I)#)) = 1155
+probability ====>0.00117544689880471
+(?=((?<aminoAcid>I)#[^#]#=>[^#]#(?<structureType>I)#)) Occurences for (?=((?<aminoAcid>I)#[^#]#=>[^#]#(?<structureType>I)#)) = 2670
+probability ====>0.00271726685697712
+(?=((?<aminoAcid>K)#[^#]#=>[^#]#(?<structureType>I)#)) Occurences for (?=((?<aminoAcid>K)#[^#]#=>[^#]#(?<structureType>I)#)) = 2919
+probability ====>0.00297067488970644
+(?=((?<aminoAcid>L)#[^#]#=>[^#]#(?<structureType>I)#)) Occurences for (?=((?<aminoAcid>L)#[^#]#=>[^#]#(?<structureType>I)#)) = 4485
+probability ====>0.00456439769795594
+(?=((?<aminoAcid>M)#[^#]#=>[^#]#(?<structureType>I)#)) Occurences for (?=((?<aminoAcid>M)#[^#]#=>[^#]#(?<structureType>I)#)) = 1137
+probability ====>0.00115712824583632
+(?=((?<aminoAcid>N)#[^#]#=>[^#]#(?<structureType>I)#)) Occurences for (?=((?<aminoAcid>N)#[^#]#=>[^#]#(?<structureType>I)#)) = 2220
+probability ====>0.00225930053276749
+(?=((?<aminoAcid>P)#[^#]#=>[^#]#(?<structureType>I)#)) Occurences for (?=((?<aminoAcid>P)#[^#]#=>[^#]#(?<structureType>I)#)) = 1485
+probability ====>0.00151128886989177
+(?=((?<aminoAcid>Q)#[^#]#=>[^#]#(?<structureType>I)#)) Occurences for (?=((?<aminoAcid>Q)#[^#]#=>[^#]#(?<structureType>I)#)) = 1149
+probability ====>0.00116934068114858
+(?=((?<aminoAcid>R)#[^#]#=>[^#]#(?<structureType>I)#)) Occurences for (?=((?<aminoAcid>R)#[^#]#=>[^#]#(?<structureType>I)#)) = 1689
+probability ====>0.00171890027020013
+(?=((?<aminoAcid>S)#[^#]#=>[^#]#(?<structureType>I)#)) Occurences for (?=((?<aminoAcid>S)#[^#]#=>[^#]#(?<structureType>I)#)) = 2409
+probability ====>0.00245164638893553
+(?=((?<aminoAcid>T)#[^#]#=>[^#]#(?<structureType>I)#)) Occurences for (?=((?<aminoAcid>T)#[^#]#=>[^#]#(?<structureType>I)#)) = 2595
+probability ====>0.00264093913627551
+(?=((?<aminoAcid>V)#[^#]#=>[^#]#(?<structureType>I)#)) Occurences for (?=((?<aminoAcid>V)#[^#]#=>[^#]#(?<structureType>I)#)) = 2925
+probability ====>0.00297678110736257
+(?=((?<aminoAcid>W)#[^#]#=>[^#]#(?<structureType>I)#)) Occurences for (?=((?<aminoAcid>W)#[^#]#=>[^#]#(?<structureType>I)#)) = 1800
+probability ====>0.00183186529683851
+(?=((?<aminoAcid>Y)#[^#]#=>[^#]#(?<structureType>I)#)) Occurences for (?=((?<aminoAcid>Y)#[^#]#=>[^#]#(?<structureType>I)#)) = 1314
+probability ====>0.00133726166669211
+(?=((?<aminoAcid>B)#[^#]#=>[^#]#(?<structureType>I)#)) Occurences for (?=((?<aminoAcid>B)#[^#]#=>[^#]#(?<structureType>I)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>Z)#[^#]#=>[^#]#(?<structureType>I)#)) Occurences for (?=((?<aminoAcid>Z)#[^#]#=>[^#]#(?<structureType>I)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>#)#[^#]#=>[^#]#(?<structureType>I)#)) Occurences for (?=((?<aminoAcid>#)#[^#]#=>[^#]#(?<structureType>I)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>@)#[^#]#=>[^#]#(?<structureType>T)#)) Occurences for (?=((?<aminoAcid>@)#[^#]#=>[^#]#(?<structureType>T)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>X)#[^#]#=>[^#]#(?<structureType>T)#)) Occurences for (?=((?<aminoAcid>X)#[^#]#=>[^#]#(?<structureType>T)#)) = 2286
+probability ====>0.0023264689269849
+(?=((?<aminoAcid>A)#[^#]#=>[^#]#(?<structureType>T)#)) Occurences for (?=((?<aminoAcid>A)#[^#]#=>[^#]#(?<structureType>T)#)) = 721344
+probability ====>0.734113911490375
+(?=((?<aminoAcid>C)#[^#]#=>[^#]#(?<structureType>T)#)) Occurences for (?=((?<aminoAcid>C)#[^#]#=>[^#]#(?<structureType>T)#)) = 248631
+probability ====>0.253032500343475
+(?=((?<aminoAcid>D)#[^#]#=>[^#]#(?<structureType>T)#)) Occurences for (?=((?<aminoAcid>D)#[^#]#=>[^#]#(?<structureType>T)#)) = 730542
+probability ====>0.74347474315722
+(?=((?<aminoAcid>E)#[^#]#=>[^#]#(?<structureType>T)#)) Occurences for (?=((?<aminoAcid>E)#[^#]#=>[^#]#(?<structureType>T)#)) = 700872
+probability ====>0.713279496847665
+(?=((?<aminoAcid>F)#[^#]#=>[^#]#(?<structureType>T)#)) Occurences for (?=((?<aminoAcid>F)#[^#]#=>[^#]#(?<structureType>T)#)) = 460305
+probability ====>0.468453753034027
+(?=((?<aminoAcid>G)#[^#]#=>[^#]#(?<structureType>T)#)) Occurences for (?=((?<aminoAcid>G)#[^#]#=>[^#]#(?<structureType>T)#)) = 672597
+probability ====>0.68450394614316
+(?=((?<aminoAcid>H)#[^#]#=>[^#]#(?<structureType>T)#)) Occurences for (?=((?<aminoAcid>H)#[^#]#=>[^#]#(?<structureType>T)#)) = 438129
+probability ====>0.445885172576977
+(?=((?<aminoAcid>I)#[^#]#=>[^#]#(?<structureType>T)#)) Occurences for (?=((?<aminoAcid>I)#[^#]#=>[^#]#(?<structureType>T)#)) = 491235
+probability ====>0.499931305051369
+(?=((?<aminoAcid>K)#[^#]#=>[^#]#(?<structureType>T)#)) Occurences for (?=((?<aminoAcid>K)#[^#]#=>[^#]#(?<structureType>T)#)) = 692226
+probability ====>0.704480437205184
+(?=((?<aminoAcid>L)#[^#]#=>[^#]#(?<structureType>T)#)) Occurences for (?=((?<aminoAcid>L)#[^#]#=>[^#]#(?<structureType>T)#)) = 713925
+probability ====>0.726563573358572
+(?=((?<aminoAcid>M)#[^#]#=>[^#]#(?<structureType>T)#)) Occurences for (?=((?<aminoAcid>M)#[^#]#=>[^#]#(?<structureType>T)#)) = 329247
+probability ====>0.335075640771215
+(?=((?<aminoAcid>N)#[^#]#=>[^#]#(?<structureType>T)#)) Occurences for (?=((?<aminoAcid>N)#[^#]#=>[^#]#(?<structureType>T)#)) = 635754
+probability ====>0.647008716625704
+(?=((?<aminoAcid>P)#[^#]#=>[^#]#(?<structureType>T)#)) Occurences for (?=((?<aminoAcid>P)#[^#]#=>[^#]#(?<structureType>T)#)) = 726336
+probability ====>0.739194284580274
+(?=((?<aminoAcid>Q)#[^#]#=>[^#]#(?<structureType>T)#)) Occurences for (?=((?<aminoAcid>Q)#[^#]#=>[^#]#(?<structureType>T)#)) = 530175
+probability ====>0.539560657639642
+(?=((?<aminoAcid>R)#[^#]#=>[^#]#(?<structureType>T)#)) Occurences for (?=((?<aminoAcid>R)#[^#]#=>[^#]#(?<structureType>T)#)) = 626463
+probability ====>0.637553238585189
+(?=((?<aminoAcid>S)#[^#]#=>[^#]#(?<structureType>T)#)) Occurences for (?=((?<aminoAcid>S)#[^#]#=>[^#]#(?<structureType>T)#)) = 704391
+probability ====>0.716860793502984
+(?=((?<aminoAcid>T)#[^#]#=>[^#]#(?<structureType>T)#)) Occurences for (?=((?<aminoAcid>T)#[^#]#=>[^#]#(?<structureType>T)#)) = 603174
+probability ====>0.613851954752927
+(?=((?<aminoAcid>V)#[^#]#=>[^#]#(?<structureType>T)#)) Occurences for (?=((?<aminoAcid>V)#[^#]#=>[^#]#(?<structureType>T)#)) = 553506
+probability ====>0.563304684995497
+(?=((?<aminoAcid>W)#[^#]#=>[^#]#(?<structureType>T)#)) Occurences for (?=((?<aminoAcid>W)#[^#]#=>[^#]#(?<structureType>T)#)) = 215808
+probability ====>0.219628436655625
+(?=((?<aminoAcid>Y)#[^#]#=>[^#]#(?<structureType>T)#)) Occurences for (?=((?<aminoAcid>Y)#[^#]#=>[^#]#(?<structureType>T)#)) = 460827
+probability ====>0.46898499397011
+(?=((?<aminoAcid>B)#[^#]#=>[^#]#(?<structureType>T)#)) Occurences for (?=((?<aminoAcid>B)#[^#]#=>[^#]#(?<structureType>T)#)) = 6
+probability ====>6.10621765612835e-06
+(?=((?<aminoAcid>Z)#[^#]#=>[^#]#(?<structureType>T)#)) Occurences for (?=((?<aminoAcid>Z)#[^#]#=>[^#]#(?<structureType>T)#)) = 6
+probability ====>6.10621765612835e-06
+(?=((?<aminoAcid>#)#[^#]#=>[^#]#(?<structureType>T)#)) Occurences for (?=((?<aminoAcid>#)#[^#]#=>[^#]#(?<structureType>T)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>@)#[^#]#=>[^#]#(?<structureType>S)#)) Occurences for (?=((?<aminoAcid>@)#[^#]#=>[^#]#(?<structureType>S)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>X)#[^#]#=>[^#]#(?<structureType>S)#)) Occurences for (?=((?<aminoAcid>X)#[^#]#=>[^#]#(?<structureType>S)#)) = 2532
+probability ====>0.00257682385088616
+(?=((?<aminoAcid>A)#[^#]#=>[^#]#(?<structureType>S)#)) Occurences for (?=((?<aminoAcid>A)#[^#]#=>[^#]#(?<structureType>S)#)) = 616380
+probability ====>0.627291739814066
+(?=((?<aminoAcid>C)#[^#]#=>[^#]#(?<structureType>S)#)) Occurences for (?=((?<aminoAcid>C)#[^#]#=>[^#]#(?<structureType>S)#)) = 218727
+probability ====>0.222599111545331
+(?=((?<aminoAcid>D)#[^#]#=>[^#]#(?<structureType>S)#)) Occurences for (?=((?<aminoAcid>D)#[^#]#=>[^#]#(?<structureType>S)#)) = 653088
+probability ====>0.664649579434259
+(?=((?<aminoAcid>E)#[^#]#=>[^#]#(?<structureType>S)#)) Occurences for (?=((?<aminoAcid>E)#[^#]#=>[^#]#(?<structureType>S)#)) = 575904
+probability ====>0.586099195505824
+(?=((?<aminoAcid>F)#[^#]#=>[^#]#(?<structureType>S)#)) Occurences for (?=((?<aminoAcid>F)#[^#]#=>[^#]#(?<structureType>S)#)) = 436038
+probability ====>0.443757155723816
+(?=((?<aminoAcid>G)#[^#]#=>[^#]#(?<structureType>S)#)) Occurences for (?=((?<aminoAcid>G)#[^#]#=>[^#]#(?<structureType>S)#)) = 766584
+probability ====>0.780154792617583
+(?=((?<aminoAcid>H)#[^#]#=>[^#]#(?<structureType>S)#)) Occurences for (?=((?<aminoAcid>H)#[^#]#=>[^#]#(?<structureType>S)#)) = 364803
+probability ====>0.371261086601432
+(?=((?<aminoAcid>I)#[^#]#=>[^#]#(?<structureType>S)#)) Occurences for (?=((?<aminoAcid>I)#[^#]#=>[^#]#(?<structureType>S)#)) = 416436
+probability ====>0.423808142641244
+(?=((?<aminoAcid>K)#[^#]#=>[^#]#(?<structureType>S)#)) Occurences for (?=((?<aminoAcid>K)#[^#]#=>[^#]#(?<structureType>S)#)) = 574170
+probability ====>0.584334498603203
+(?=((?<aminoAcid>L)#[^#]#=>[^#]#(?<structureType>S)#)) Occurences for (?=((?<aminoAcid>L)#[^#]#=>[^#]#(?<structureType>S)#)) = 610902
+probability ====>0.62171676309402
+(?=((?<aminoAcid>M)#[^#]#=>[^#]#(?<structureType>S)#)) Occurences for (?=((?<aminoAcid>M)#[^#]#=>[^#]#(?<structureType>S)#)) = 230553
+probability ====>0.23463446654556
+(?=((?<aminoAcid>N)#[^#]#=>[^#]#(?<structureType>S)#)) Occurences for (?=((?<aminoAcid>N)#[^#]#=>[^#]#(?<structureType>S)#)) = 558009
+probability ====>0.567887401346421
+(?=((?<aminoAcid>P)#[^#]#=>[^#]#(?<structureType>S)#)) Occurences for (?=((?<aminoAcid>P)#[^#]#=>[^#]#(?<structureType>S)#)) = 597759
+probability ====>0.608341093318271
+(?=((?<aminoAcid>Q)#[^#]#=>[^#]#(?<structureType>S)#)) Occurences for (?=((?<aminoAcid>Q)#[^#]#=>[^#]#(?<structureType>S)#)) = 438699
+probability ====>0.446465263254309
+(?=((?<aminoAcid>R)#[^#]#=>[^#]#(?<structureType>S)#)) Occurences for (?=((?<aminoAcid>R)#[^#]#=>[^#]#(?<structureType>S)#)) = 515676
+probability ====>0.524804982673607
+(?=((?<aminoAcid>S)#[^#]#=>[^#]#(?<structureType>S)#)) Occurences for (?=((?<aminoAcid>S)#[^#]#=>[^#]#(?<structureType>S)#)) = 689217
+probability ====>0.701418169050636
+(?=((?<aminoAcid>T)#[^#]#=>[^#]#(?<structureType>S)#)) Occurences for (?=((?<aminoAcid>T)#[^#]#=>[^#]#(?<structureType>S)#)) = 644922
+probability ====>0.656339017204268
+(?=((?<aminoAcid>V)#[^#]#=>[^#]#(?<structureType>S)#)) Occurences for (?=((?<aminoAcid>V)#[^#]#=>[^#]#(?<structureType>S)#)) = 510936
+probability ====>0.519981070725266
+(?=((?<aminoAcid>W)#[^#]#=>[^#]#(?<structureType>S)#)) Occurences for (?=((?<aminoAcid>W)#[^#]#=>[^#]#(?<structureType>S)#)) = 182112
+probability ====>0.185335918298808
+(?=((?<aminoAcid>Y)#[^#]#=>[^#]#(?<structureType>S)#)) Occurences for (?=((?<aminoAcid>Y)#[^#]#=>[^#]#(?<structureType>S)#)) = 413994
+probability ====>0.4213229120552
+(?=((?<aminoAcid>B)#[^#]#=>[^#]#(?<structureType>S)#)) Occurences for (?=((?<aminoAcid>B)#[^#]#=>[^#]#(?<structureType>S)#)) = 6
+probability ====>6.10621765612835e-06
+(?=((?<aminoAcid>Z)#[^#]#=>[^#]#(?<structureType>S)#)) Occurences for (?=((?<aminoAcid>Z)#[^#]#=>[^#]#(?<structureType>S)#)) = 6
+probability ====>6.10621765612835e-06
+(?=((?<aminoAcid>#)#[^#]#=>[^#]#(?<structureType>S)#)) Occurences for (?=((?<aminoAcid>#)#[^#]#=>[^#]#(?<structureType>S)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>@)#[^#]#=>[^#]#(?<structureType>~)#)) Occurences for (?=((?<aminoAcid>@)#[^#]#=>[^#]#(?<structureType>~)#)) = 409644
+probability ====>0.416895904254507
+(?=((?<aminoAcid>X)#[^#]#=>[^#]#(?<structureType>~)#)) Occurences for (?=((?<aminoAcid>X)#[^#]#=>[^#]#(?<structureType>~)#)) = 12996
+probability ====>0.013226067443174
+(?=((?<aminoAcid>A)#[^#]#=>[^#]#(?<structureType>~)#)) Occurences for (?=((?<aminoAcid>A)#[^#]#=>[^#]#(?<structureType>~)#)) = 795579
+probability ====>0.809663089440823
+(?=((?<aminoAcid>C)#[^#]#=>[^#]#(?<structureType>~)#)) Occurences for (?=((?<aminoAcid>C)#[^#]#=>[^#]#(?<structureType>~)#)) = 370635
+probability ====>0.377196330163189
+(?=((?<aminoAcid>D)#[^#]#=>[^#]#(?<structureType>~)#)) Occurences for (?=((?<aminoAcid>D)#[^#]#=>[^#]#(?<structureType>~)#)) = 778830
+probability ====>0.792617582853741
+(?=((?<aminoAcid>E)#[^#]#=>[^#]#(?<structureType>~)#)) Occurences for (?=((?<aminoAcid>E)#[^#]#=>[^#]#(?<structureType>~)#)) = 794511
+probability ====>0.808576182698032
+(?=((?<aminoAcid>F)#[^#]#=>[^#]#(?<structureType>~)#)) Occurences for (?=((?<aminoAcid>F)#[^#]#=>[^#]#(?<structureType>~)#)) = 705402
+probability ====>0.717889691178042
+(?=((?<aminoAcid>G)#[^#]#=>[^#]#(?<structureType>~)#)) Occurences for (?=((?<aminoAcid>G)#[^#]#=>[^#]#(?<structureType>~)#)) = 900978
+probability ====>0.916927961897202
+(?=((?<aminoAcid>H)#[^#]#=>[^#]#(?<structureType>~)#)) Occurences for (?=((?<aminoAcid>H)#[^#]#=>[^#]#(?<structureType>~)#)) = 577707
+probability ====>0.58793411391149
+(?=((?<aminoAcid>I)#[^#]#=>[^#]#(?<structureType>~)#)) Occurences for (?=((?<aminoAcid>I)#[^#]#=>[^#]#(?<structureType>~)#)) = 773607
+probability ====>0.787302120384081
+(?=((?<aminoAcid>K)#[^#]#=>[^#]#(?<structureType>~)#)) Occurences for (?=((?<aminoAcid>K)#[^#]#=>[^#]#(?<structureType>~)#)) = 805269
+probability ====>0.81952463095547
+(?=((?<aminoAcid>L)#[^#]#=>[^#]#(?<structureType>~)#)) Occurences for (?=((?<aminoAcid>L)#[^#]#=>[^#]#(?<structureType>~)#)) = 856551
+probability ====>0.871714473262399
+(?=((?<aminoAcid>M)#[^#]#=>[^#]#(?<structureType>~)#)) Occurences for (?=((?<aminoAcid>M)#[^#]#=>[^#]#(?<structureType>~)#)) = 592845
+probability ====>0.603340101057902
+(?=((?<aminoAcid>N)#[^#]#=>[^#]#(?<structureType>~)#)) Occurences for (?=((?<aminoAcid>N)#[^#]#=>[^#]#(?<structureType>~)#)) = 733668
+probability ====>0.746656082556063
+(?=((?<aminoAcid>P)#[^#]#=>[^#]#(?<structureType>~)#)) Occurences for (?=((?<aminoAcid>P)#[^#]#=>[^#]#(?<structureType>~)#)) = 787638
+probability ====>0.801581510372937
+(?=((?<aminoAcid>Q)#[^#]#=>[^#]#(?<structureType>~)#)) Occurences for (?=((?<aminoAcid>Q)#[^#]#=>[^#]#(?<structureType>~)#)) = 676758
+probability ====>0.688738608087685
+(?=((?<aminoAcid>R)#[^#]#=>[^#]#(?<structureType>~)#)) Occurences for (?=((?<aminoAcid>R)#[^#]#=>[^#]#(?<structureType>~)#)) = 763701
+probability ====>0.777220755033813
+(?=((?<aminoAcid>S)#[^#]#=>[^#]#(?<structureType>~)#)) Occurences for (?=((?<aminoAcid>S)#[^#]#=>[^#]#(?<structureType>~)#)) = 795480
+probability ====>0.809562336849497
+(?=((?<aminoAcid>T)#[^#]#=>[^#]#(?<structureType>~)#)) Occurences for (?=((?<aminoAcid>T)#[^#]#=>[^#]#(?<structureType>~)#)) = 774273
+probability ====>0.787979910543911
+(?=((?<aminoAcid>V)#[^#]#=>[^#]#(?<structureType>~)#)) Occurences for (?=((?<aminoAcid>V)#[^#]#=>[^#]#(?<structureType>~)#)) = 826959
+probability ====>0.841598607782374
+(?=((?<aminoAcid>W)#[^#]#=>[^#]#(?<structureType>~)#)) Occurences for (?=((?<aminoAcid>W)#[^#]#=>[^#]#(?<structureType>~)#)) = 366705
+probability ====>0.373196757598425
+(?=((?<aminoAcid>Y)#[^#]#=>[^#]#(?<structureType>~)#)) Occurences for (?=((?<aminoAcid>Y)#[^#]#=>[^#]#(?<structureType>~)#)) = 658395
+probability ====>0.670050528951105
+(?=((?<aminoAcid>B)#[^#]#=>[^#]#(?<structureType>~)#)) Occurences for (?=((?<aminoAcid>B)#[^#]#=>[^#]#(?<structureType>~)#)) = 12
+probability ====>1.22124353122567e-05
+(?=((?<aminoAcid>Z)#[^#]#=>[^#]#(?<structureType>~)#)) Occurences for (?=((?<aminoAcid>Z)#[^#]#=>[^#]#(?<structureType>~)#)) = 12
+probability ====>1.22124353122567e-05
+(?=((?<aminoAcid>#)#[^#]#=>[^#]#(?<structureType>~)#)) Occurences for (?=((?<aminoAcid>#)#[^#]#=>[^#]#(?<structureType>~)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>@)#[^#]#=>[^#]#(?<structureType>@)#)) Occurences for (?=((?<aminoAcid>@)#[^#]#=>[^#]#(?<structureType>@)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>X)#[^#]#=>[^#]#(?<structureType>@)#)) Occurences for (?=((?<aminoAcid>X)#[^#]#=>[^#]#(?<structureType>@)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>A)#[^#]#=>[^#]#(?<structureType>@)#)) Occurences for (?=((?<aminoAcid>A)#[^#]#=>[^#]#(?<structureType>@)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>C)#[^#]#=>[^#]#(?<structureType>@)#)) Occurences for (?=((?<aminoAcid>C)#[^#]#=>[^#]#(?<structureType>@)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>D)#[^#]#=>[^#]#(?<structureType>@)#)) Occurences for (?=((?<aminoAcid>D)#[^#]#=>[^#]#(?<structureType>@)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>E)#[^#]#=>[^#]#(?<structureType>@)#)) Occurences for (?=((?<aminoAcid>E)#[^#]#=>[^#]#(?<structureType>@)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>F)#[^#]#=>[^#]#(?<structureType>@)#)) Occurences for (?=((?<aminoAcid>F)#[^#]#=>[^#]#(?<structureType>@)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>G)#[^#]#=>[^#]#(?<structureType>@)#)) Occurences for (?=((?<aminoAcid>G)#[^#]#=>[^#]#(?<structureType>@)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>H)#[^#]#=>[^#]#(?<structureType>@)#)) Occurences for (?=((?<aminoAcid>H)#[^#]#=>[^#]#(?<structureType>@)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>I)#[^#]#=>[^#]#(?<structureType>@)#)) Occurences for (?=((?<aminoAcid>I)#[^#]#=>[^#]#(?<structureType>@)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>K)#[^#]#=>[^#]#(?<structureType>@)#)) Occurences for (?=((?<aminoAcid>K)#[^#]#=>[^#]#(?<structureType>@)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>L)#[^#]#=>[^#]#(?<structureType>@)#)) Occurences for (?=((?<aminoAcid>L)#[^#]#=>[^#]#(?<structureType>@)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>M)#[^#]#=>[^#]#(?<structureType>@)#)) Occurences for (?=((?<aminoAcid>M)#[^#]#=>[^#]#(?<structureType>@)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>N)#[^#]#=>[^#]#(?<structureType>@)#)) Occurences for (?=((?<aminoAcid>N)#[^#]#=>[^#]#(?<structureType>@)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>P)#[^#]#=>[^#]#(?<structureType>@)#)) Occurences for (?=((?<aminoAcid>P)#[^#]#=>[^#]#(?<structureType>@)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>Q)#[^#]#=>[^#]#(?<structureType>@)#)) Occurences for (?=((?<aminoAcid>Q)#[^#]#=>[^#]#(?<structureType>@)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>R)#[^#]#=>[^#]#(?<structureType>@)#)) Occurences for (?=((?<aminoAcid>R)#[^#]#=>[^#]#(?<structureType>@)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>S)#[^#]#=>[^#]#(?<structureType>@)#)) Occurences for (?=((?<aminoAcid>S)#[^#]#=>[^#]#(?<structureType>@)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>T)#[^#]#=>[^#]#(?<structureType>@)#)) Occurences for (?=((?<aminoAcid>T)#[^#]#=>[^#]#(?<structureType>@)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>V)#[^#]#=>[^#]#(?<structureType>@)#)) Occurences for (?=((?<aminoAcid>V)#[^#]#=>[^#]#(?<structureType>@)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>W)#[^#]#=>[^#]#(?<structureType>@)#)) Occurences for (?=((?<aminoAcid>W)#[^#]#=>[^#]#(?<structureType>@)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>Y)#[^#]#=>[^#]#(?<structureType>@)#)) Occurences for (?=((?<aminoAcid>Y)#[^#]#=>[^#]#(?<structureType>@)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>B)#[^#]#=>[^#]#(?<structureType>@)#)) Occurences for (?=((?<aminoAcid>B)#[^#]#=>[^#]#(?<structureType>@)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>Z)#[^#]#=>[^#]#(?<structureType>@)#)) Occurences for (?=((?<aminoAcid>Z)#[^#]#=>[^#]#(?<structureType>@)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>#)#[^#]#=>[^#]#(?<structureType>@)#)) Occurences for (?=((?<aminoAcid>#)#[^#]#=>[^#]#(?<structureType>@)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>@)#[^#]#=>[^#]#(?<structureType>#)#)) Occurences for (?=((?<aminoAcid>@)#[^#]#=>[^#]#(?<structureType>#)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>X)#[^#]#=>[^#]#(?<structureType>#)#)) Occurences for (?=((?<aminoAcid>X)#[^#]#=>[^#]#(?<structureType>#)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>A)#[^#]#=>[^#]#(?<structureType>#)#)) Occurences for (?=((?<aminoAcid>A)#[^#]#=>[^#]#(?<structureType>#)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>C)#[^#]#=>[^#]#(?<structureType>#)#)) Occurences for (?=((?<aminoAcid>C)#[^#]#=>[^#]#(?<structureType>#)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>D)#[^#]#=>[^#]#(?<structureType>#)#)) Occurences for (?=((?<aminoAcid>D)#[^#]#=>[^#]#(?<structureType>#)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>E)#[^#]#=>[^#]#(?<structureType>#)#)) Occurences for (?=((?<aminoAcid>E)#[^#]#=>[^#]#(?<structureType>#)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>F)#[^#]#=>[^#]#(?<structureType>#)#)) Occurences for (?=((?<aminoAcid>F)#[^#]#=>[^#]#(?<structureType>#)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>G)#[^#]#=>[^#]#(?<structureType>#)#)) Occurences for (?=((?<aminoAcid>G)#[^#]#=>[^#]#(?<structureType>#)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>H)#[^#]#=>[^#]#(?<structureType>#)#)) Occurences for (?=((?<aminoAcid>H)#[^#]#=>[^#]#(?<structureType>#)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>I)#[^#]#=>[^#]#(?<structureType>#)#)) Occurences for (?=((?<aminoAcid>I)#[^#]#=>[^#]#(?<structureType>#)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>K)#[^#]#=>[^#]#(?<structureType>#)#)) Occurences for (?=((?<aminoAcid>K)#[^#]#=>[^#]#(?<structureType>#)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>L)#[^#]#=>[^#]#(?<structureType>#)#)) Occurences for (?=((?<aminoAcid>L)#[^#]#=>[^#]#(?<structureType>#)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>M)#[^#]#=>[^#]#(?<structureType>#)#)) Occurences for (?=((?<aminoAcid>M)#[^#]#=>[^#]#(?<structureType>#)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>N)#[^#]#=>[^#]#(?<structureType>#)#)) Occurences for (?=((?<aminoAcid>N)#[^#]#=>[^#]#(?<structureType>#)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>P)#[^#]#=>[^#]#(?<structureType>#)#)) Occurences for (?=((?<aminoAcid>P)#[^#]#=>[^#]#(?<structureType>#)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>Q)#[^#]#=>[^#]#(?<structureType>#)#)) Occurences for (?=((?<aminoAcid>Q)#[^#]#=>[^#]#(?<structureType>#)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>R)#[^#]#=>[^#]#(?<structureType>#)#)) Occurences for (?=((?<aminoAcid>R)#[^#]#=>[^#]#(?<structureType>#)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>S)#[^#]#=>[^#]#(?<structureType>#)#)) Occurences for (?=((?<aminoAcid>S)#[^#]#=>[^#]#(?<structureType>#)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>T)#[^#]#=>[^#]#(?<structureType>#)#)) Occurences for (?=((?<aminoAcid>T)#[^#]#=>[^#]#(?<structureType>#)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>V)#[^#]#=>[^#]#(?<structureType>#)#)) Occurences for (?=((?<aminoAcid>V)#[^#]#=>[^#]#(?<structureType>#)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>W)#[^#]#=>[^#]#(?<structureType>#)#)) Occurences for (?=((?<aminoAcid>W)#[^#]#=>[^#]#(?<structureType>#)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>Y)#[^#]#=>[^#]#(?<structureType>#)#)) Occurences for (?=((?<aminoAcid>Y)#[^#]#=>[^#]#(?<structureType>#)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>B)#[^#]#=>[^#]#(?<structureType>#)#)) Occurences for (?=((?<aminoAcid>B)#[^#]#=>[^#]#(?<structureType>#)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>Z)#[^#]#=>[^#]#(?<structureType>#)#)) Occurences for (?=((?<aminoAcid>Z)#[^#]#=>[^#]#(?<structureType>#)#)) = 0
+probability ====>0
+(?=((?<aminoAcid>#)#[^#]#=>[^#]#(?<structureType>#)#)) Occurences for (?=((?<aminoAcid>#)#[^#]#=>[^#]#(?<structureType>#)#)) = 0
+probability ====>0

@@ -1,11 +1,12 @@
 use Data::Dumper;
 
 open FILE_GLOBAL, "<", "viterbi_details.txt" or die $!;
+open RESULTS, ">" ,"counter_aa_structures_transitions_results.txt" or die $!;
 #open FILE_TRANSITION_REGEXES, "<", "transitions_regexes.txt" or die $!;
 
+$all = "(?=((?<aminoAcid>.{1})#[^#]#=>[^#]#(?<structureType>.{1})#))";
 
-@toto = (
-
+@allTransitionsRegexes = (
 		 "(?=((?<aminoAcid>@)#[^#]#=>[^#]#(?<structureType>\!)#))",
 		 "(?=((?<aminoAcid>X)#[^#]#=>[^#]#(?<structureType>\!)#))",
 		 "(?=((?<aminoAcid>A)#[^#]#=>[^#]#(?<structureType>\!)#))",
@@ -331,21 +332,30 @@ sub countOccurencesForTransitions {
 		
 	}
 	print " Occurences for $combination = $counter\n";
+	print RESULTS " Occurences for $combination = $counter\n";
+	return $counter;
 } 
 
 
 print "NOW PROCESSING AMINO ACIDS TO STATES TRANSITIONS========================================================================\n";
+print RESULTS "NOW PROCESSING AMINO ACIDS TO STATES TRANSITIONS========================================================================\n";
 
-foreach (@toto) {
+my $allCount = countOccurencesForTransitions($all);	
+print "probability ====>".($allCount/$allCount)."\n";
+
+foreach (@allTransitionsRegexes) {
 	my $combination =  $_;
 	$combination =~ s/(\n|\r)//g;
 
 	print $combination;
-	countOccurencesForTransitions($combination);	
-	
+	print RESULTS $combination;
+	my $currentCount = countOccurencesForTransitions($combination);	
+	print "probability ====>".($currentCount/$allCount)."\n";
+	print RESULTS "probability ====>".($currentCount/$allCount)."\n";
 	#die;
 }
 
 
 close FILE_GLOBAL;
+close RESULTS;
 #close FILE_TRANSITION_REGEXES;
